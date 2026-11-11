@@ -1,0 +1,13 @@
+baseURL = "https://www.kapyamarket.co.za/"
+title = "Kapya Market"
+theme = "PaperMod"
+
+[permalinks.page]
+posts = "/:year/:month/:slug.html"
+pages = "/p/:slug.html"
+
+[outputs]
+home = ["HTML", "RSS"]
+
+[markup.goldmark.renderer]
+unsafe = true
