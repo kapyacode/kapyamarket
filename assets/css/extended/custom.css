@@ -1,0 +1,12 @@
+:root {
+  --primary: #0f766e;
+}
+
+a { color: #0f766e; }
+a:hover { color: #f97316; }
+
+.post-title { font-weight: 700; }
+
+.post-content img { border-radius: 8px; }
+
+.post-content h2 { margin-top: 32px; }
