@@ -30,3 +30,60 @@ a:hover { color: #f97316; }
   height: auto;
   border-radius: 8px;
 }
+
+/* ---------- Polish ---------- */
+body {
+  font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.7;
+}
+
+/* Brand in the header */
+.header .logo a { font-weight: 800; font-size: 22px; color: #0f766e; }
+.header .nav a, #menu a { font-weight: 600; }
+
+/* Home page intro box */
+.first-entry {
+  min-height: 0;
+  padding: 24px;
+  margin-bottom: 28px;
+  background: var(--entry);
+  border: 1px solid #99f6e4;
+  border-left: 6px solid #0f766e;
+  border-radius: 12px;
+}
+.first-entry .entry-header h1 { font-size: 30px; }
+
+/* Post cards */
+.post-entry {
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  box-shadow: 0 1px 3px rgba(0,0,0,.06);
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+.post-entry:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(0,0,0,.12);
+}
+.entry-header h2 { font-size: 22px; line-height: 1.3; }
+.entry-content { color: var(--secondary); }
+.entry-footer { font-size: 13px; }
+
+/* Article typography */
+.post-content h2 { font-size: 26px; margin: 36px 0 12px; }
+.post-content h3 { font-size: 20px; margin: 28px 0 10px; }
+.post-content a { text-decoration: underline; text-underline-offset: 3px; }
+.post-content blockquote {
+  border-left: 4px solid #0f766e;
+  background: var(--code-bg);
+  padding: 12px 18px;
+  border-radius: 6px;
+}
+.post-content table { width: 100%; border-collapse: collapse; }
+.post-content th, .post-content td {
+  border: 1px solid var(--border);
+  padding: 8px 12px;
+}
+.post-content th { background: var(--code-bg); }
+
+/* Footer */
+.footer { font-size: 14px; padding: 24px 0; border-top: 1px solid var(--border); margin-top: 32px; }

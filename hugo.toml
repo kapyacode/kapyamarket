@@ -42,3 +42,10 @@ weight = 4
 
 [security]
   allowContent = ['! ^text/org$']
+
+[params.homeInfoParams]
+Title = "Welcome to Kapya Market"
+Content = "Practical guides on affiliate marketing, blogging and building an online business in South Africa."
+
+[params.label]
+text = "Kapya Market"
