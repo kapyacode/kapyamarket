@@ -16,7 +16,7 @@ tags:
   - "Work From Home"
   - "Kapya Market Guides"
 cover:
-  image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilolaDAl2kZJPVQKGQRwXZhxQp5RH_JHi9hXfI0Btd1SDgYEqQZFsXeybxImJqJzgUXxjQPHsY1x68Ca8WW11AWoNz10-5himnIO0AKRPWh-KV1Suy8_LfCAwFiDci5d8tzztK9TCUS3ZWUHOhdPBVsnuwkDPuNOwCiYufKkYMfsb-o4-f9cpc8HYr4iMP/w400-h210-rw/1.png"
+  image: "/images/blog/3ab43c56f2cd.png"
   hiddenInSingle: true
 ---
 
@@ -26,7 +26,7 @@ cover:
 
 <p><em>Last updated: May 2026 | Works in: USA, UK, Australia, Canada, South Africa, Nigeria, India, Philippines — anywhere with internet.</em></p>
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilolaDAl2kZJPVQKGQRwXZhxQp5RH_JHi9hXfI0Btd1SDgYEqQZFsXeybxImJqJzgUXxjQPHsY1x68Ca8WW11AWoNz10-5himnIO0AKRPWh-KV1Suy8_LfCAwFiDci5d8tzztK9TCUS3ZWUHOhdPBVsnuwkDPuNOwCiYufKkYMfsb-o4-f9cpc8HYr4iMP/w400-h210-rw/1.png" alt="How to make money online in 2026 - woman earning real income from home worldwide" style="max-width:100%;height:auto;"/>
+<img src="/images/blog/3ab43c56f2cd.png" alt="How to make money online in 2026 - woman earning real income from home worldwide" style="max-width:100%;height:auto;"/>
 
 <p>You've seen the headlines. "$10,000 a month from your laptop." "Quit your job and travel." Most of it is fake.</p>
 
@@ -65,7 +65,7 @@ cover:
 
 <h2>Method 1: Affiliate Marketing — Best for Long-Term Passive Income</h2>
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8nZtTlu5LZWFryeEEtyQ_mg_5cbE4WanmINSdQqJMUGQGjrm9_XAi9JOosPue2CPzjt5T9I9tkwX6t00ouGE0r4LMlTCn94WN5zXiKomEfubvt5v_7SXtxEybeIwmiriKsRzKWQsPHo-MBWF39xbCLeBg_PfBmS8iavYf9DPokAvIV4sdJQawizYJ79Uw/w400-h210-rw/2.png" alt="How to start an affiliate marketing blog for beginners to make money online 2026" style="max-width:100%;height:auto;"/>
+<img src="/images/blog/3df24ea16e15.png" alt="How to start an affiliate marketing blog for beginners to make money online 2026" style="max-width:100%;height:auto;"/>
 
 <p>Affiliate marketing is the #1 method I recommend to beginners worldwide in 2026. You promote other companies' products, earn a commission when someone buys, and the income keeps coming in even while you sleep.</p>
 
@@ -204,7 +204,7 @@ cover:
     &nbsp;·&nbsp;
     <a href="https://www.kapyamarket.co.za/p/contact-us.html" style="color:#1a1a2e; text-decoration:underline;">Contact</a>
     &nbsp;·&nbsp;
-    <a href="https://www.facebook.com/profile.php?id=61572544120007" style="color:#1a1a2e; text-decoration:underline;" target="_blank" rel="nofollow">Facebook</a>
+    <a href="https://www.facebook.com/profile.php?id=61596068272606" style="color:#1a1a2e; text-decoration:underline;" target="_blank" rel="nofollow">Facebook</a>
     &nbsp;·&nbsp;
     <a href="https://za.pinterest.com/kapyaAffiliate/" style="color:#1a1a2e; text-decoration:underline;" target="_blank" rel="nofollow">Pinterest</a>
     &nbsp;·&nbsp;

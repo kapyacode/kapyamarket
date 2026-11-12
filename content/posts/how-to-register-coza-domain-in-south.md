@@ -5,7 +5,7 @@ slug: "how-to-register-coza-domain-in-south"
 url: "/2026/11/how-to-register-coza-domain-in-south.html"
 description: "Register a .co.za domain in South Africa from R49 a year. HostAfrica domain prices, renewal costs, and a simple three-step guide."
 cover:
-  image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOg7mlNp5K21ok50w2NppWrOQupuC8XCfV92e801x3ocXeqb816VirqzDGGy03l7Y6ZoIcMvMHc_sOwqO2-4pUf0651q4kiyiNkqBw64RXs_xJI0KYRRxHs6MbzTG9Jjtj1A1TJ7fGaVOZrJ04W3ip10lC5qjxYfZJqIHSC7TsEIhRrpdGHjZMae6qkgHu/s1600/image.png"
+  image: "/images/blog/bc29d5ae181a.png"
   hiddenInSingle: true
 ---
 
@@ -18,7 +18,7 @@ cover:
   <a href="https://hostafrica.co.za/domains/?aff=3166" rel="nofollow sponsored noopener" style="background: rgb(28, 138, 135); border-radius: 30px; color: white; display: inline-block; font-weight: bold; padding: 14px 28px; text-decoration: none;" target="_blank">Search for your domain</a>
 </div>
 <figure style="margin: 24px 0px; text-align: center;">
-  <img alt="How to register a .co.za domain in South Africa from R49 a year" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOg7mlNp5K21ok50w2NppWrOQupuC8XCfV92e801x3ocXeqb816VirqzDGGy03l7Y6ZoIcMvMHc_sOwqO2-4pUf0651q4kiyiNkqBw64RXs_xJI0KYRRxHs6MbzTG9Jjtj1A1TJ7fGaVOZrJ04W3ip10lC5qjxYfZJqIHSC7TsEIhRrpdGHjZMae6qkgHu/s1600/image.png" style="border-radius: 8px; height: auto; max-width: 100%;" />
+  <img alt="How to register a .co.za domain in South Africa from R49 a year" src="/images/blog/bc29d5ae181a.png" style="border-radius: 8px; height: auto; max-width: 100%;" />
   <figcaption style="color: #607080; font-size: 90%;">A .co.za domain registers from R49 and renews at R109 a year.</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ cover:
 
 <p>HostAfrica is accredited by ZACR, the body that manages .za domains, and by ICANN, which covers global domains such as .com. Here are the prices for the most popular extensions, all per year.</p>
 <figure style="margin: 24px 0px; text-align: center;">
-  <img alt="HostAfrica domain prices: .co.za R49, .org.za R99, .africa R139, .com R269 to register" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5ucItkyT_Ers8rq2LsYgtvAuMERlcu6xOYSVaMWt6BzGZMG4p-YftMb_YZ_gItnnvSOGh2MLtgUSIWAW80chEmfP_gd9M776GUPY18Mz80vG-0qkGnEV_QBmrnqwagaZe-qME3F9l5_T_flmYN-6LnCkrsOREuXYt5wXSF1e_5NjAqbKxvO9J9Dg7SKvO/s1600/image.png" style="border-radius: 8px; height: auto; max-width: 100%;" />
+  <img alt="HostAfrica domain prices: .co.za R49, .org.za R99, .africa R139, .com R269 to register" src="/images/blog/78db88b07fe8.png" style="border-radius: 8px; height: auto; max-width: 100%;" />
   <figcaption style="color: #607080; font-size: 90%;">Registration price first, renewal price second.</figcaption>
 </figure>
 <div style="overflow-x: auto;">
@@ -49,7 +49,7 @@ cover:
 
 <h2>How to register your domain in three steps</h2>
 <figure style="margin: 24px 0px; text-align: center;">
-  <img alt="Register a domain in three steps: search, choose an extension, complete registration" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVNlWxSWsSIlr7o-282haELZ0DxTbnQFkggWbrtiELhyR1OynHnOc23mpQsEBBr1en89Qn4HQe3FtpZilz1q3KH2iy8v7Uq64rMD1HizxSTCiSERB_n_VwoUlgiKU4s1qHcVVeoOK-Kia5XEwhm2G9Nn0jUAbc0emsUb4xdWI_DfX1uN8hiM8v6432al86/s1600/image.png" style="border-radius: 8px; height: auto; max-width: 100%;" />
+  <img alt="Register a domain in three steps: search, choose an extension, complete registration" src="/images/blog/29d20d38b2b3.png" style="border-radius: 8px; height: auto; max-width: 100%;" />
   <figcaption style="color: #607080; font-size: 90%;">The same process works for .co.za, .com and .africa.</figcaption>
 </figure>
 

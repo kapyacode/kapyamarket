@@ -12,7 +12,7 @@ tags:
   - "Passive Income"
   - "Online Business"
 cover:
-  image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhRSI0yJqR_yZleYvOfe1OCSY029HLSJJtRC-aJoPAAI4pf0622y7s7uU8hP4qw8f_tmOKmxB1CSR6hzkxiJbeJSR2SU_Up8MfaDNCNVMYRCUow3ulbgqTaquv-vKxKCQSi68Q80by3MzvNe1EbsPxcC5_4SaNCyUPAIS4l5B5IP4Iw8LXu28d19upyV8s/w320-h213-rw/kadarius-seegars-w_yVIYD0Omk-unsplash%20(1).jpg"
+  image: "/images/blog/c9208e9caa7f.jpg"
   hiddenInSingle: true
 ---
 
@@ -22,7 +22,7 @@ cover:
 
 <hr/>
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhRSI0yJqR_yZleYvOfe1OCSY029HLSJJtRC-aJoPAAI4pf0622y7s7uU8hP4qw8f_tmOKmxB1CSR6hzkxiJbeJSR2SU_Up8MfaDNCNVMYRCUow3ulbgqTaquv-vKxKCQSi68Q80by3MzvNe1EbsPxcC5_4SaNCyUPAIS4l5B5IP4Iw8LXu28d19upyV8s/w320-h213-rw/kadarius-seegars-w_yVIYD0Omk-unsplash%20(1).jpg" alt="Person learning affiliate marketing on a laptop in 2026" style="max-width:100%;height:auto;"/>
+<img src="/images/blog/c9208e9caa7f.jpg" alt="Person learning affiliate marketing on a laptop in 2026" style="max-width:100%;height:auto;"/>
 
 <p>Want to make money online but have no product? Affiliate marketing is how 80% of bloggers start. I made my first $47 in week 3 using just this method.</p>
 
@@ -251,7 +251,7 @@ cover:
     &nbsp;·&nbsp;
     <a href="https://www.kapyamarket.co.za/p/contact-us.html" style="color:#1a1a2e; text-decoration:underline;">Contact</a>
     &nbsp;·&nbsp;
-    <a href="https://www.facebook.com/profile.php?id=61572544120007" style="color:#1a1a2e; text-decoration:underline;" target="_blank" rel="nofollow">Facebook</a>
+    <a href="https://www.facebook.com/profile.php?id=61596068272606" style="color:#1a1a2e; text-decoration:underline;" target="_blank" rel="nofollow">Facebook</a>
     &nbsp;·&nbsp;
     <a href="https://za.pinterest.com/kapyaAffiliate/" style="color:#1a1a2e; text-decoration:underline;" target="_blank" rel="nofollow">Pinterest</a>
     &nbsp;·&nbsp;

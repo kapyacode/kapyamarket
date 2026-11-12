@@ -14,7 +14,7 @@ tags:
   - "South Africa"
   - "Zero Dollar Side Hustle"
 cover:
-  image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQExNYhk1_UGO6uSQ3oKzKH4zWYETT2XS8W45QQF1EuCQrkhRjeZ3K-ZsWwhw0kykW7LGnNyPP1m4Z5VKJt4KnnhZcFFdUmDsnTUjUxSpqcdjy3qOIfMuDIzC97LSCm-bterfWSGi0iidJayZK5wXWmEVHIvPXN_OqkxixG2PFCXhaMUwo0QDtvpLox-wx/w213-h320-rw/pexels-cottonbro-4058741.jpg"
+  image: "/images/blog/b17592f26348.jpg"
   hiddenInSingle: true
 ---
 
@@ -24,8 +24,8 @@ cover:
 
 <h1>Load Shedding Side Hustle: How to Make Money Online During Eskom Outages in 2026</h1>
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQExNYhk1_UGO6uSQ3oKzKH4zWYETT2XS8W45QQF1EuCQrkhRjeZ3K-ZsWwhw0kykW7LGnNyPP1m4Z5VKJt4KnnhZcFFdUmDsnTUjUxSpqcdjy3qOIfMuDIzC97LSCm-bterfWSGi0iidJayZK5wXWmEVHIvPXN_OqkxixG2PFCXhaMUwo0QDtvpLox-wx/s5849/pexels-cottonbro-4058741.jpg">
-  <img alt="working from home during load shedding South Africa" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQExNYhk1_UGO6uSQ3oKzKH4zWYETT2XS8W45QQF1EuCQrkhRjeZ3K-ZsWwhw0kykW7LGnNyPP1m4Z5VKJt4KnnhZcFFdUmDsnTUjUxSpqcdjy3qOIfMuDIzC97LSCm-bterfWSGi0iidJayZK5wXWmEVHIvPXN_OqkxixG2PFCXhaMUwo0QDtvpLox-wx/w213-h320-rw/pexels-cottonbro-4058741.jpg" />
+<a href="/images/blog/9e06fc8944db.jpg">
+  <img alt="working from home during load shedding South Africa" src="/images/blog/b17592f26348.jpg" />
 </a>
 
 <p>Eskom cut my power at 10am on a Tuesday. Stage 4. 4 hours.</p>
@@ -40,8 +40,8 @@ cover:
 
 <h2>What You Need First: The R0–R500 Setup</h2>
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFIQ4QgiuI5NXylo9bAAX6En3zuLjdM-aGblAC-0N9fJSNe7XXDr3MTx8tfx3aqvSPbKQkpabpGv8j0cahbgBZdDruNfeh02pUvKLMqrDvoNLYpt9mpki56D_q2PHc-n6rsxowTJa2e7plbVHhKqM0vJKGzFB2UMCm0ihBtYvfgHk-dI2Dd_pCMi4o569o/s3097/pexels-thepaintedsquare-3361489.jpg">
-  <img alt="phone hotspot laptop setup for load shedding South Africa" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFIQ4QgiuI5NXylo9bAAX6En3zuLjdM-aGblAC-0N9fJSNe7XXDr3MTx8tfx3aqvSPbKQkpabpGv8j0cahbgBZdDruNfeh02pUvKLMqrDvoNLYpt9mpki56D_q2PHc-n6rsxowTJa2e7plbVHhKqM0vJKGzFB2UMCm0ihBtYvfgHk-dI2Dd_pCMi4o569o/w320-h213-rw/pexels-thepaintedsquare-3361489.jpg" />
+<a href="/images/blog/93a129d54676.jpg">
+  <img alt="phone hotspot laptop setup for load shedding South Africa" src="/images/blog/93a8e2e8f7e1.jpg" />
 </a>
 
 <p>You don't need a generator. You need 3 things:</p>
@@ -87,8 +87,8 @@ That's it. You can do everything on a phone if you have no laptop. Write posts i
 
 <h3>2. Answer Quora Questions — Free Traffic With Your Phone</h3>
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi19ofm3rSi_iVwUajU0mbWtSZTjN8AsX0-bEFHWwfpb4YXaXkK9-K_RTkss-HjExyBP7gPHyM5XmXeXtrI_IwgsYoGtIwLBL153x2XXFzO4Z3o8rZCODTLO_9jUX3aOlTUwxrNxLqjHo1G9n4sTejaQuh4eiZNKN6RBwa3L8EC7SgEFNxLfaFsunIDBKiT/s6720/pexels-cottonbro-6963601.jpg">
-  <img alt="make money on phone during power outage South Africa" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi19ofm3rSi_iVwUajU0mbWtSZTjN8AsX0-bEFHWwfpb4YXaXkK9-K_RTkss-HjExyBP7gPHyM5XmXeXtrI_IwgsYoGtIwLBL153x2XXFzO4Z3o8rZCODTLO_9jUX3aOlTUwxrNxLqjHo1G9n4sTejaQuh4eiZNKN6RBwa3L8EC7SgEFNxLfaFsunIDBKiT/w320-h213-rw/pexels-cottonbro-6963601.jpg" />
+<a href="/images/blog/6c46120c054b.jpg">
+  <img alt="make money on phone during power outage South Africa" src="/images/blog/26bb961287d8.jpg" />
 </a>
 
 <p>This is how I got 140 visitors from one answer — sitting in the dark with a phone.</p>
@@ -185,7 +185,7 @@ That's it. You can do everything on a phone if you have no laptop. Write posts i
 
 <h2>Your Next Step</h2>
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy-VUrKTvYahhkvYAA6zNhp_GvxuM8_ZRhHMswcvjdQOA4GPQWkqKBu9bAKV4e0nrXqIWVGOdQsmi07JS_J-2UDYWlZeqoODVFtcSYTvagEQIHCMaiL3g1LsGKvEQiknpuOA1fwkYTflqNpmnU8JiA3y5IPUOxl2Z1dDuGYblBqcvk218JhGLtWNUB0DiV/s6720/pexels-karola-g-5717759.jpg">
+<a href="/images/blog/72a8c58b6d93.jpg">
   <img alt="earn affiliate income online South Africa 2026" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy-VUrKTvYahhkvYAaa6zNhp_GvxuM8_ZRhHMswcvjdQOA4GPQWkqKBu9bAKV4e0nrXqIWVGOdQsmi07JS_J-2UDYWlZeqoODVFtcSYTvagEQIHCMaiL3g1LsGKvEQiknpuOA1fwkYTflqNpmnU8JiA3y5IPUOxl2Z1dDuGYblBqcvk218JhGLtWNUB0DiV/w213-h320-rw/pexels-karola-g-5717759.jpg" />
 </a>
 
@@ -233,7 +233,7 @@ That's it. You can do everything on a phone if you have no laptop. Write posts i
     &nbsp;·&nbsp;
     <a href="https://www.kapyamarket.co.za/p/contact-us.html" style="color:#1a1a2e; text-decoration:underline;">Contact</a>
     &nbsp;·&nbsp;
-    <a href="https://www.facebook.com/profile.php?id=61572544120007" style="color:#1a1a2e; text-decoration:underline;" target="_blank" rel="nofollow">Facebook</a>
+    <a href="https://www.facebook.com/profile.php?id=61596068272606" style="color:#1a1a2e; text-decoration:underline;" target="_blank" rel="nofollow">Facebook</a>
     &nbsp;·&nbsp;
     <a href="https://za.pinterest.com/kapyaAffiliate/" style="color:#1a1a2e; text-decoration:underline;" target="_blank" rel="nofollow">Pinterest</a>
     &nbsp;·&nbsp;

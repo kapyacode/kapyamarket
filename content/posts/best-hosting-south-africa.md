@@ -17,7 +17,7 @@ tags:
   - "blog setup"
   - "hosting comparison"
 cover:
-  image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGmylZ-XdFk_DNzqzd4pmhy1pynffLSu59c4bLnvLbqK9O6SmZDYOL_3cmOjQZvL-NaxISVgz_01W8zoYcoGj0IzXux1UOhDmOhFhoe7Ae4wil9QLVQfsI41QK9fTLsmyR68ILqxtsDRaBXbMFAqmWs6v7wC0N5MniHMVKooy6mMSdUHBTWs1Gga1G8hhyphenhyphen/s16000/download%20(4).jpg"
+  image: "/images/blog/5292b48b97dd.jpg"
   hiddenInSingle: true
 ---
 
@@ -38,7 +38,7 @@ in Gauteng. Finding reliable web hosting in South Africa is key to your blog's s
 
 <p>One of them is <a href="https://my.hostafrica.com/aff.php?aff=3166">HostAfrica</a> — I use them for Kapya Market because their Johannesburg servers cut my load time from <strong>4.2 seconds to 1.1 seconds</strong>.</p>
 
-<img alt="web hosting South Africa comparison chart" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGmylZ-XdFk_DNzqzd4pmhy1pynffLSu59c4bLnvLbqK9O6SmZDYOL_3cmOjQZvL-NaxISVgz_01W8zoYcoGj0IzXux1UOhDmOhFhoe7Ae4wil9QLVQfsI41QK9fTLsmyR68ILqxtsDRaBXbMFAqmWs6v7wC0N5MniHMVKooy6mMSdUHBTWs1Gga1G8hhyphenhyphen/s16000/download%20(4).jpg" style="height: auto; max-width: 100%;" />
+<img alt="web hosting South Africa comparison chart" src="/images/blog/5292b48b97dd.jpg" style="height: auto; max-width: 100%;" />
 
 <hr />
 
@@ -55,7 +55,7 @@ in Gauteng. Finding reliable web hosting in South Africa is key to your blog's s
 <h3>3. Local SEO Advantage</h3>
 <p>Google uses server location as one of many signals for local search rankings. A South African IP address helps your site rank better for searches made inside South Africa.</p>
 
-<img alt="Professional web hosting services provided by HostAfrica in South Africa" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZDk6DGqxG-FZVfOOKdpdfi6MLgQEJZA4OBKS3UFNK2cr6FAcVUujmUboRt0UfiXegZyPrRd_2-fnb9vZzORWPY0ug875Z3KdahRrcZlKzJdCQ4ihSkMF2LXgm9GqXUWgpChhtMq4OeBVaWf5fcxc55J1qXAVIws2sEyNaQv4LbeFaQx543UlRrvFZK7tx/w320-h213-rw/download%20(3).jpg" style="height: auto; max-width: 100%;" />
+<img alt="Professional web hosting services provided by HostAfrica in South Africa" src="/images/blog/4741a6084f67.jpg" style="height: auto; max-width: 100%;" />
 
 <p><a href="https://my.hostafrica.com/aff.php?aff=3166"><strong>Check HostAfrica SA Servers →</strong></a></p>
 <p><em>I earn a commission if you buy. I only recommend tools I personally use.</em></p>
@@ -65,7 +65,7 @@ in Gauteng. Finding reliable web hosting in South Africa is key to your blog's s
 <h3 style="text-align: left;">Why I Recommend HostAfrica</h3>
 
 <a href="https://my.hostafrica.com/aff.php?aff=3166">
-<img alt="HostAfrica web hosting South Africa from R49 per month co.za domain included" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDh4FGjZZocr8qI24IDy8IM7tW6zhW4QLF2TIm0kL6RyuhcKiJgKQIH9rejLzws0zUJxYe4_GXCQagW4AnQekCaB9Y1F1jtu_e2wctDMRjzpEStilJnTgLgEv64Ubvj5p6AjXDNY_qfByD190yc711ZSuxiHqOojKAQQdCfmGQujNSc32ax66Vm9SauHFd/s1200/co.za%20R49.png" style="height: auto; max-width: 100%;" />
+<img alt="HostAfrica web hosting South Africa from R49 per month co.za domain included" src="/images/blog/a9997e36b21b.png" style="height: auto; max-width: 100%;" />
 </a>
 
 <p>HostAfrica runs their servers locally in Johannesburg. When I moved Kapya Market to HostAfrica, my GTmetrix score for Cape Town dropped from 4.2 seconds to 1.1 seconds.</p>
@@ -163,7 +163,7 @@ affiliate marketing tips for growth.</p>
     &nbsp;·&nbsp;
     <a href="https://www.kapyamarket.co.za/p/contact-us.html" style="color: #1a1a2e; text-decoration: underline;">Contact</a>
     &nbsp;·&nbsp;
-    <a href="https://www.facebook.com/profile.php?id=61572544120007" rel="nofollow" style="color: #1a1a2e; text-decoration: underline;" target="_blank">Facebook</a>
+    <a href="https://www.facebook.com/profile.php?id=61596068272606" rel="nofollow" style="color: #1a1a2e; text-decoration: underline;" target="_blank">Facebook</a>
     &nbsp;·&nbsp;
     <a href="https://za.pinterest.com/kapyaAffiliate/" rel="nofollow" style="color: #1a1a2e; text-decoration: underline;" target="_blank">Pinterest</a>
     &nbsp;·&nbsp;

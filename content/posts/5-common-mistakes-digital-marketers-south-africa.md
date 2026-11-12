@@ -12,7 +12,7 @@ tags:
   - "Online Business"
   - "Kapya Market Guides"
 cover:
-  image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0aJ8mkuU-8hNo8bka-u-Lny5AtUxBdZLuTR-KUtZH7AbI5jWpbKaEW4Lcq5HGzABfd9KjNFIgFml9lY6gR90eflpq-QJ6M7P4Obko0JrntqRWZbAX_4syq1ZYrJr1MmPiQATo8ACJaRa3W89-jDbqbmWq4giVSy3zw9b5EBmlPaI6vVZ0xNJa3rwKhRQF/s3780-rw/Cream%20Illustrative%20Digital%20Marketing%20Banner.png"
+  image: "/images/blog/4b9002fa11ca.png"
   hiddenInSingle: true
 ---
 
@@ -22,7 +22,7 @@ cover:
 
 <hr/>
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0aJ8mkuU-8hNo8bka-u-Lny5AtUxBdZLuTR-KUtZH7AbI5jWpbKaEW4Lcq5HGzABfd9KjNFIgFml9lY6gR90eflpq-QJ6M7P4Obko0JrntqRWZbAX_4syq1ZYrJr1MmPiQATo8ACJaRa3W89-jDbqbmWq4giVSy3zw9b5EBmlPaI6vVZ0xNJa3rwKhRQF/s3780-rw/Cream%20Illustrative%20Digital%20Marketing%20Banner.png" alt="5 common digital marketing mistakes beginners make in South Africa 2026" style="max-width:100%;height:auto;"/>
+<img src="/images/blog/4b9002fa11ca.png" alt="5 common digital marketing mistakes beginners make in South Africa 2026" style="max-width:100%;height:auto;"/>
 
 <p>I made every mistake on this list when I started digital marketing in Johannesburg. Lost R2,000 on ads. Three months with 0 sales. Don't copy me.</p>
 
@@ -66,7 +66,7 @@ cover:
 <p><strong>For SA hosting:</strong> I recommend <a href="https://my.hostafrica.com/aff.php?aff=3166">HostAfrica</a>. Local servers = faster for SA visitors. Pay with EFT. Free .co.za domain on annual plans.</p>
 
 <a href="https://my.hostafrica.com/aff.php?aff=3166">
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhxkbzq03IQJ40KsH-V7QGu3pXOV9PtBx-RuyaVpKORfKKRfQb-4-uCps9dj7Dhh9lBZoqf2ijs4-krEh2vKtZXoJ_tqouFiHIXmGRTexj4aCESVURwHbRFrpTqjmONjekV7ksR5FQxu7diyzYfRZOzkt5JBKbutrKLOxjmgKl4MFAQgdS44EBw5ZY4xbl/s1200-rw/co.za%20R49%20(1).png" alt="HostAfrica WordPress hosting from R49 per month South Africa co.za domain" style="max-width:100%;height:auto;"/>
+<img src="/images/blog/919ec25f2e7b.png" alt="HostAfrica WordPress hosting from R49 per month South Africa co.za domain" style="max-width:100%;height:auto;"/>
 </a>
 
 <p><a href="https://my.hostafrica.com/aff.php?aff=3166"><strong>Get HostAfrica from R49/month →</strong></a></p>
@@ -177,7 +177,7 @@ cover:
     &nbsp;·&nbsp;
     <a href="https://www.kapyamarket.co.za/p/contact-us.html" style="color:#1a1a2e; text-decoration:underline;">Contact</a>
     &nbsp;·&nbsp;
-    <a href="https://www.facebook.com/profile.php?id=61572544120007" style="color:#1a1a2e; text-decoration:underline;" target="_blank" rel="nofollow">Facebook</a>
+    <a href="https://www.facebook.com/profile.php?id=61596068272606" style="color:#1a1a2e; text-decoration:underline;" target="_blank" rel="nofollow">Facebook</a>
     &nbsp;·&nbsp;
     <a href="https://za.pinterest.com/kapyaAffiliate/" style="color:#1a1a2e; text-decoration:underline;" target="_blank" rel="nofollow">Pinterest</a>
     &nbsp;·&nbsp;

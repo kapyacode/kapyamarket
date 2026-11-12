@@ -5,7 +5,7 @@ slug: "how-to-connect-coza-domain-to-blogger"
 url: "/2026/11/how-to-connect-coza-domain-to-blogger.html"
 description: "Learn how to point your .co.za domain to Blogger using CNAME and A records. Simple steps for beginners, plus fixes for common errors."
 cover:
-  image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiClfu-UggUJAS7h0ISqtPc4gEXAnhupuw2hkZX_mQ1PBZg2vtsOSIMN6OkU-09K-YpuI7NHNROTiVn3fiJmvuIQBOv4lzCLoYef4-Y1ASxS_MRbzjmW6GDoCpUHilUuSf-29LqsmUfwtb7uWa2Cu9zJsuAUp8FBZE5MIUtLtDIxivsIuRGBgCpHK94b7ov/s1600/image.png"
+  image: "/images/blog/db2bc43b8218.png"
   hiddenInSingle: true
 ---
 
@@ -20,7 +20,7 @@ If Blogger does not show them after you paste, use the upload method instead.
 
 <p><em>Affiliate Disclosure: This post contains affiliate links. If you buy through them, I may earn a commission at no extra cost to you. <a href="https://www.kapyamarket.co.za/p/affiliate-disclosure.html">Read my full Affiliate Disclosure</a> for more info.</em></p>
 
-<p style="text-align: center;"><img alt="How to connect a .co.za domain to Blogger, step-by-step guide for beginners" height="630" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiClfu-UggUJAS7h0ISqtPc4gEXAnhupuw2hkZX_mQ1PBZg2vtsOSIMN6OkU-09K-YpuI7NHNROTiVn3fiJmvuIQBOv4lzCLoYef4-Y1ASxS_MRbzjmW6GDoCpUHilUuSf-29LqsmUfwtb7uWa2Cu9zJsuAUp8FBZE5MIUtLtDIxivsIuRGBgCpHK94b7ov/s1600/image.png" style="border-radius: 8px; height: auto; max-width: 100%;" width="1200" /></p>
+<p style="text-align: center;"><img alt="How to connect a .co.za domain to Blogger, step-by-step guide for beginners" height="630" src="/images/blog/db2bc43b8218.png" style="border-radius: 8px; height: auto; max-width: 100%;" width="1200" /></p>
 
 <p>Blogger is free, but a yourname.blogspot.com address looks amateur and is hard to remember. A .co.za domain fixes that. Connecting the two takes about 15 minutes of work, plus some waiting time while the settings spread across the internet.</p>
 
@@ -38,7 +38,7 @@ If Blogger does not show them after you paste, use the upload method instead.
 <h2>How it works in plain language</h2>
 <p>Your domain is like a street address. DNS records are the directions that tell the internet where that address leads, and your registrar stores them. You will add a few records that say: “When someone types my domain, send them to Blogger.”</p>
 
-<p style="text-align: center;"><img alt="Diagram showing how a visitor reaches a Blogger blog through the registrar's DNS records" height="520" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAS8haBFNkSVltBNzI7MCuCcKil3c8UAA4SDNr1TGjcDvwtz8YtMpBs2jHYrCkjMiu4eNKa6TEKhTRQ54THZPyz8h8-cCsVv1V7MkrzKRdXN0aA2cBovf25UK5G1nQEiPl9p-kej1DlHDjq0uSN4nnuE6Lfb3MIQ8Filyd_HI2sRHqV56BWfpi5KkhxeNF/s1600/image.png" style="border-radius: 8px; height: auto; max-width: 100%;" width="1200" /></p>
+<p style="text-align: center;"><img alt="Diagram showing how a visitor reaches a Blogger blog through the registrar's DNS records" height="520" src="/images/blog/279d2389a171.png" style="border-radius: 8px; height: auto; max-width: 100%;" width="1200" /></p>
 
 <h2>Step 1: Tell Blogger your domain</h2>
 <ol>
@@ -89,7 +89,7 @@ If Blogger does not show them after you paste, use the upload method instead.
 </ul>
 <p>If your root domain already has other A records, delete them first so they don’t conflict.</p>
 
-<p style="text-align: center;"><img alt="List of the two CNAME records and four A records to add at your domain registrar for Blogger" height="720" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7py5MLPaL0fFaUASorzyqpuhyxlpnADrePX5GBrqM0bHaU3mHJIL7e6WOBDQxHAB6lG0PqBQPUye1qBN1h6yXj2nkWSBo54Ibs7FWrZVjv_T6MCOGMcl85G7jgaXm6rw2RFUrVy5uHk-c6KR0SCrwIzXwAXGt0pC6OWFS3dWDkujEfP71AJ15rtHMk-36/s1600/image.png" style="border-radius: 8px; height: auto; max-width: 100%;" width="1200" /></p>
+<p style="text-align: center;"><img alt="List of the two CNAME records and four A records to add at your domain registrar for Blogger" height="720" src="/images/blog/8b6cae9e59b7.png" style="border-radius: 8px; height: auto; max-width: 100%;" width="1200" /></p>
 
 <h2>Step 4: Wait, then save again in Blogger</h2>
 <p>DNS changes are not instant. Wait at least an hour, then go back to Blogger and save your custom domain again. If you still get an error, wait longer and retry. It can take up to 24 hours.</p>
@@ -126,7 +126,7 @@ If Blogger does not show them after you paste, use the upload method instead.
   <li>Turn on the redirect and HTTPS settings</li>
 </ol>
 
-<p style="text-align: center;"><img alt="Five steps to connect a custom domain to Blogger: tell Blogger, add CNAME records, add A records, wait, turn on redirect and HTTPS" height="700" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOZOVB3xflVV3Si0ZcG129s_dxbMlf76JfP5N_xfG6qxpSIpS1O6PrtjYS5gcIAETDcVLCE0aYdJ0o0ZgUdfK8cDlAf29eHajfDVuGKz0JeHOcglIG6itGGUjUelaEF5kGbqCmnLK41TUIr27r12thSyV3vVH6eK0SghRaPYYol9Y-rNXE6s1CaO0aF4WZ/s1600/image.png" style="border-radius: 8px; height: auto; max-width: 100%;" width="1200" /></p>
+<p style="text-align: center;"><img alt="Five steps to connect a custom domain to Blogger: tell Blogger, add CNAME records, add A records, wait, turn on redirect and HTTPS" height="700" src="/images/blog/7eefe7318914.png" style="border-radius: 8px; height: auto; max-width: 100%;" width="1200" /></p>
 
 <h2>Read next</h2>
 <ul>

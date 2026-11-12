@@ -11,7 +11,7 @@ tags:
   - "Make Money Blogging"
   - "Affiliate Marketing 2026"
 cover:
-  image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK9Tj_G_KO0NGiZj3qOFlKOqTNQDfYjgxurM2_GHnc2DpNI7jYyb-EpZam6rJ-GUzNoBkSbxZjzwFqIMhyCpU7CuOIhAHvk6q81lMgFL5nIHh1WPfmAJyMNf3qXspnzwMLLZt4SKCs_3LbXXXeIRbyzdILvrxP2z49MBQ1u_Wi52P6ck5ZAviSZnQ-LaKB/s1600-rw/71eGb1FcyiL._AC_UY218_.jpg"
+  image: "/images/blog/97ad6b2a5fb2.jpg"
   hiddenInSingle: true
 ---
 
@@ -23,7 +23,7 @@ cover:
   "itemReviewed": {
     "@type": "Product",
     "name": "Logitech C920 HD Pro Webcam",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK9Tj_G_KO0NGiZj3qOFlKOqTNQDfYjgxurM2_GHnc2DpNI7jYyb-EpZam6rJ-GUzNoBkSbxZjzwFqIMhyCpU7CuOIhAHvk6q81lMgFL5nIHh1WPfmAJyMNf3qXspnzwMLLZt4SKCs_3LbXXXeIRbyzdILvrxP2z49MBQ1u_Wi52P6ck5ZAviSZnQ-LaKB/s1600-rw/71eGb1FcyiL._AC_UY218_.jpg",
+    "image": "/images/blog/97ad6b2a5fb2.jpg",
     "brand": {
       "@type": "Brand",
       "name": "Logitech"
@@ -68,7 +68,7 @@ cover:
 <p>I've used the <a href="https://amzn.to/3P6IXPy" target="_blank" rel="sponsored nofollow">Logitech C920</a> for 2 years to film my blog tutorials. Here's the honest truth after 200+ videos: it's still king for under $100.</p>
 
 <a href="https://amzn.to/3P6IXPy" target="_blank" rel="sponsored nofollow">
-<img alt="Logitech C920 1080p webcam for bloggers and YouTube creators 2026" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK9Tj_G_KO0NGiZj3qOFlKOqTNQDfYjgxurM2_GHnc2DpNI7jYyb-EpZam6rJ-GUzNoBkSbxZjzwFqIMhyCpU7CuOIhAHvk6q81lMgFL5nIHh1WPfmAJyMNf3qXspnzwMLLZt4SKCs_3LbXXXeIRbyzdILvrxP2z49MBQ1u_Wi52P6ck5ZAviSZnQ-LaKB/s1600-rw/71eGb1FcyiL._AC_UY218_.jpg" style="height: auto; max-width: 100%; border:0;" />
+<img alt="Logitech C920 1080p webcam for bloggers and YouTube creators 2026" src="/images/blog/97ad6b2a5fb2.jpg" style="height: auto; max-width: 100%; border:0;" />
 </a>
 
 <hr />
@@ -170,7 +170,7 @@ cover:
     &nbsp;·&nbsp;
     <a href="https://www.kapyamarket.co.za/p/contact-us.html" style="color:#1a1a2e; text-decoration:underline;">Contact</a>
     &nbsp;·&nbsp;
-    <a href="https://www.facebook.com/profile.php?id=61572544120007" style="color:#1a1a2e; text-decoration:underline;" target="_blank" rel="nofollow">Facebook</a>
+    <a href="https://www.facebook.com/profile.php?id=61596068272606" style="color:#1a1a2e; text-decoration:underline;" target="_blank" rel="nofollow">Facebook</a>
     &nbsp;·&nbsp;
     <a href="https://za.pinterest.com/kapyaAffiliate/" style="color:#1a1a2e; text-decoration:underline;" target="_blank" rel="nofollow">Pinterest</a>
     &nbsp;·&nbsp;

@@ -18,7 +18,7 @@ tags:
   - "SEO"
   - "South Africa"
 cover:
-  image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPc_RkEZV0pXuQC_MH9RzeAATQh6d4M5oNVoXaEyF6dA4Z66dEmKVNyi1Rx_2CpnAk3Y3jFkMSUejYfh7e9mFzDyOX2w9y4G0eJwj61588kd4N0q66h_fOGnzBMrWZq5W5OGzgLT1U_-uGPUXLWlyR46O8ifTqvMDbvmxCdnFBHqncIyogd_M4hqK2w3PA/w640-h426/HostAfrica%20Domain%20Registration%20Promotion.png"
+  image: "/images/blog/2457b9fe5f79.png"
   hiddenInSingle: true
 ---
 
@@ -33,7 +33,7 @@ cover:
   <!-- IMAGE (clickable, goes to your affiliate link) -->
   <div style="margin: 25px 0; text-align: center;">
     <a href="https://hostafrica.co.za/domains/?aff=3166" rel="nofollow sponsored noopener" target="_blank">
-      <img alt="Buy a domain with HostAfrica: .com, .co.za, .net, .org, .info and .africa domain extensions" border="0" height="426" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPc_RkEZV0pXuQC_MH9RzeAATQh6d4M5oNVoXaEyF6dA4Z66dEmKVNyi1Rx_2CpnAk3Y3jFkMSUejYfh7e9mFzDyOX2w9y4G0eJwj61588kd4N0q66h_fOGnzBMrWZq5W5OGzgLT1U_-uGPUXLWlyR46O8ifTqvMDbvmxCdnFBHqncIyogd_M4hqK2w3PA/w640-h426/HostAfrica%20Domain%20Registration%20Promotion.png" style="border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.15); height: auto; max-width: 100%;" title="Buy a Domain with HostAfrica" width="640" />
+      <img alt="Buy a domain with HostAfrica: .com, .co.za, .net, .org, .info and .africa domain extensions" border="0" height="426" src="/images/blog/2457b9fe5f79.png" style="border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.15); height: auto; max-width: 100%;" title="Buy a Domain with HostAfrica" width="640" />
     </a>
     <p style="font-size: 15px; margin-top: 10px;"><strong>🚀 Secure your perfect domain name today!</strong><br />Register your <strong>.co.za, .com, .org, .net</strong> and more with HostAfrica. Fast registration and 24/7 support to help your business grow online.</p>
   </div>

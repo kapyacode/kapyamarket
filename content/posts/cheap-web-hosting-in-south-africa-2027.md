@@ -5,7 +5,7 @@ slug: "cheap-web-hosting-in-south-africa-2027"
 url: "/2026/11/cheap-web-hosting-in-south-africa-2027.html"
 description: "HostAfrica web hosting from R99 a month in South Africa. Plans, prices, a free .co.za domain, and how to launch a WordPress site."
 cover:
-  image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUaMVnm0DzxkAQid7-cTPdsjDcH5XtFbK56ReGbVsoTk0zlTNYSJMHo2uMnmZ9RJyrREMuqtYgaB7HhitVEEDyo1EenxqfGdmKgBRoU6mKd7C3oBWCe-MwmhwZ2RYlKUG-FlNcbHoKG5FU_tfzjET7GlV1bDMKp_tLCJGTG-7GbsWN54au6rtN6mO1mvnz/s1600/image.png"
+  image: "/images/blog/941dafac8fc1.png"
   hiddenInSingle: true
 ---
 
@@ -18,7 +18,7 @@ cover:
   <a href="https://hostafrica.co.za/web-hosting/?aff=3166" rel="nofollow sponsored noopener" style="background: rgb(242, 177, 52); border-radius: 30px; color: #12263a; display: inline-block; font-weight: bold; padding: 14px 28px; text-decoration: none;" target="_blank">See HostAfrica hosting plans</a>
 </div>
 <figure style="margin: 24px 0px; text-align: center;">
-  <img alt="Cheap web hosting in South Africa from R99 a month with HostAfrica" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUaMVnm0DzxkAQid7-cTPdsjDcH5XtFbK56ReGbVsoTk0zlTNYSJMHo2uMnmZ9RJyrREMuqtYgaB7HhitVEEDyo1EenxqfGdmKgBRoU6mKd7C3oBWCe-MwmhwZ2RYlKUG-FlNcbHoKG5FU_tfzjET7GlV1bDMKp_tLCJGTG-7GbsWN54au6rtN6mO1mvnz/s1600/image.png" style="border-radius: 8px; height: auto; max-width: 100%;" />
+  <img alt="Cheap web hosting in South Africa from R99 a month with HostAfrica" src="/images/blog/941dafac8fc1.png" style="border-radius: 8px; height: auto; max-width: 100%;" />
   <figcaption style="color: #607080; font-size: 90%;">HostAfrica shared hosting starts at R99 a month.</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ cover:
 
 <h2>All four plans compared</h2>
 <figure style="margin: 24px 0px; text-align: center;">
-  <img alt="HostAfrica web hosting plans: Starter R99, Basic R139, Power R245 and Business R360 per month" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQufrz_dkN8knzuiADvX4hchL8wOxYiKD0N9xRO6m2D-sHWNhpomXuSWLXhSAlty9nRB8_8WZarFimWCSDPS87EX8zFwGJ06sWkDBkFJkuZcrV5bhg513KnYxSt_2ZMmpMFXrqbCicwis-6HtJK_OGp0MdtaYwfzw7iB5kLjFXAy6zRfcvsqrS2pKmBokB/s1600/image.png" style="border-radius: 8px; height: auto; max-width: 100%;" />
+  <img alt="HostAfrica web hosting plans: Starter R99, Basic R139, Power R245 and Business R360 per month" src="/images/blog/81ae0ff110d0.png" style="border-radius: 8px; height: auto; max-width: 100%;" />
   <figcaption style="color: #607080; font-size: 90%;">Prices checked November 2026.</figcaption>
 </figure>
 <div style="overflow-x: auto;">
@@ -57,7 +57,7 @@ cover:
 
 <h2>How to launch a WordPress site on HostAfrica</h2>
 <figure style="margin: 24px 0px; text-align: center;">
-  <img alt="Four steps to start a website on HostAfrica hosting" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ25-co7eBUe1zGYAZ23uEwTiqq9Pz8Olo0I2CfzEyG49s7pkxHqRSX5pWlEoI-i6_6z7Agw3NXDJ6BDiuFp1Zwuti5vwXgIcJQV6B1YS3Y5gMk2qpesCt7EYD_baU11ncQyXatikb5tCG_iLeSiZhA3gezksSmn06Hn6lEfYAtHtELTBm_GQSoC-XR0CM/s1600/image.png" style="border-radius: 8px; height: auto; max-width: 100%;" />
+  <img alt="Four steps to start a website on HostAfrica hosting" src="/images/blog/8fe2a6487522.png" style="border-radius: 8px; height: auto; max-width: 100%;" />
   <figcaption style="color: #607080; font-size: 90%;">From plan to first page in four steps.</figcaption>
 </figure>
 

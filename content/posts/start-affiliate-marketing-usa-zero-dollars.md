@@ -15,7 +15,7 @@ tags:
   - "South Africa"
   - "Side Hustle 2026"
 cover:
-  image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhdxZ2sKPDyuAOzNIgopcaCDrWAIAa2rq47hJ_V4t6gFLc9KofLjZFUJtANUvSAiMO2lze-d70v6xisYUMoFgiMOLORp1VBU_MRP-tBpyZE1C-NR9EfXty-plOcOVUhm3WghdFYVco2U_uHjBHuOcPBqnp6ZlDNEGnSMY4u1JXkOpua9MXVGSca8QT9Pqn/w640-h427-rw/3.png"
+  image: "/images/blog/96f290ba17c2.png"
   hiddenInSingle: true
 ---
 
@@ -31,8 +31,8 @@ cover:
 
 <p>This is the exact 4-step strategy I used to start earning affiliate commissions right here in South Africa.</p>
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhdxZ2sKPDyuAOzNIgopcaCDrWAIAa2rq47hJ_V4t6gFLc9KofLjZFUJtANUvSAiMO2lze-d70v6xisYUMoFgiMOLORp1VBU_MRP-tBpyZE1C-NR9EfXty-plOcOVUhm3WghdFYVco2U_uHjBHuOcPBqnp6ZlDNEGnSMY4u1JXkOpua9MXVGSca8QT9Pqn/s1500/3.png" rel="noopener" target="_blank">
-<img alt="How to start affiliate marketing in South Africa with R0 in 2026" loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhdxZ2sKPDyuAOzNIgopcaCDrWAIAa2rq47hJ_V4t6gFLc9KofLjZFUJtANUvSAiMO2lze-d70v6xisYUMoFgiMOLORp1VBU_MRP-tBpyZE1C-NR9EfXty-plOcOVUhm3WghdFYVco2U_uHjBHuOcPBqnp6ZlDNEGnSMY4u1JXkOpua9MXVGSca8QT9Pqn/w640-h427-rw/3.png" width="640" height="427" style="max-width:100%;height:auto;display:block;margin:16px 0;border-radius:8px;"/>
+<a href="/images/blog/8229655c6cab.png" rel="noopener" target="_blank">
+<img alt="How to start affiliate marketing in South Africa with R0 in 2026" loading="lazy" src="/images/blog/96f290ba17c2.png" width="640" height="427" style="max-width:100%;height:auto;display:block;margin:16px 0;border-radius:8px;"/>
 </a>
 
 <hr/>
@@ -100,8 +100,8 @@ cover:
 
 <p>The smartest way to earn with R0 upfront is to promote tools that offer free trials. When someone signs up through your link and later upgrades to a paid plan, you earn the full commission — without spending anything yourself.</p>
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivV8YscApdnQGfnvETfjeKv0ZcrdlUDDo0IJqVmdN7RunpfLItMyIIWkFc6m0exvRQulgD-aeHuR4rxnCUvVYKT9kI_JcyAC1pOjk29CeGdDaqBjh8Ubgrk3OlN0U12baHRZEZdYhbbtCXfctq8U1xZcn1ti0d8MHRIAEODSUcB1W1NhItm8GAKTntl7Um/s1500/2.png" rel="noopener" target="_blank">
-<img alt="Best free trial affiliate programs for South African beginners 2026" loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivV8YscApdnQGfnvETfjeKv0ZcrdlUDDo0IJqVmdN7RunpfLItMyIIWkFc6m0exvRQulgD-aeHuR4rxnCUvVYKT9kI_JcyAC1pOjk29CeGdDaqBjh8Ubgrk3OlN0U12baHRZEZdYhbbtCXfctq8U1xZcn1ti0d8MHRIAEODSUcB1W1NhItm8GAKTntl7Um/w640-h427-rw/2.png" width="640" height="427" style="max-width:100%;height:auto;display:block;margin:16px 0;border-radius:8px;"/>
+<a href="/images/blog/a04c9e328fe2.png" rel="noopener" target="_blank">
+<img alt="Best free trial affiliate programs for South African beginners 2026" loading="lazy" src="/images/blog/483445e247b1.png" width="640" height="427" style="max-width:100%;height:auto;display:block;margin:16px 0;border-radius:8px;"/>
 </a>
 
 <p>Best picks for SA affiliates in 2026:</p>
@@ -119,8 +119,8 @@ cover:
 
 <p>You do not need to run paid ads. These platforms send real SA traffic for free — if you use them consistently:</p>
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiJCrtP4dn0vfnOSDgEZxPSh7SFhS-GE0I-vnABSJtf5m44z9muZwIm16VduisdLX_u2tU_ZUIRcv9AEBeMTLwHh3O94M84CSZqfwk5mH8NxiN9v8Xgx6Ud8ReFfyC-EKaYQQDB0NibRxuyNaf2OXzr6rgrbgqeip9j2PfKB7MUs9CvpMSri5vfJ3-C7Dm/s1500/1.png" rel="noopener" target="_blank">
-<img alt="Free traffic strategies for South African affiliate marketers 2026" loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiJCrtP4dn0vfnOSDgEZxPSh7SFhS-GE0I-vnABSJtf5m44z9muZwIm16VduisdLX_u2tU_ZUIRcv9AEBeMTLwHh3O94M84CSZqfwk5mH8NxiN9v8Xgx6Ud8ReFfyC-EKaYQQDB0NibRxuyNaf2OXzr6rgrbgqeip9j2PfKB7MUs9CvpMSri5vfJ3-C7Dm/w640-h427-rw/1.png" width="640" height="427" style="max-width:100%;height:auto;display:block;margin:16px 0;border-radius:8px;"/>
+<a href="/images/blog/b8e8d979a5ca.png" rel="noopener" target="_blank">
+<img alt="Free traffic strategies for South African affiliate marketers 2026" loading="lazy" src="/images/blog/bfa62b909841.png" width="640" height="427" style="max-width:100%;height:auto;display:block;margin:16px 0;border-radius:8px;"/>
 </a>
 
 <h3>1. Pinterest</h3>
@@ -202,7 +202,7 @@ cover:
     &nbsp;·&nbsp;
     <a href="https://www.kapyamarket.co.za/p/contact-us.html" style="color:#1a1a2e; text-decoration:underline;">Contact</a>
     &nbsp;·&nbsp;
-    <a href="https://www.facebook.com/profile.php?id=61572544120007" style="color:#1a1a2e; text-decoration:underline;" target="_blank" rel="nofollow">Facebook</a>
+    <a href="https://www.facebook.com/profile.php?id=61596068272606" style="color:#1a1a2e; text-decoration:underline;" target="_blank" rel="nofollow">Facebook</a>
     &nbsp;·&nbsp;
     <a href="https://za.pinterest.com/kapyaAffiliate/" style="color:#1a1a2e; text-decoration:underline;" target="_blank" rel="nofollow">Pinterest</a>
     &nbsp;·&nbsp;

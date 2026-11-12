@@ -5,7 +5,7 @@ slug: "how-to-start-online-store-in-2027"
 url: "/2026/11/how-to-start-online-store-in-2027.html"
 description: "Start an online store in 2026 with Shopify. Step-by-step guide for South Africans: pricing, trial, local payment gateways, shipping and traffic."
 cover:
-  image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjMzTYwfOZE59bKu0HL-po_obvkmPu9Ipwvagq_wx64mXTTbRUdmL31XfTZVeOp8hbaC5V2MA-7BwGiNpaOFgZE2-0mTKp5yilu7RrbHg8Cohto8Ohyphenhyphen4XxxAC1TauT52naFZMKTxl-b2_HMMqMfrDyhFlkhBIkCEyeLTsjMWIxBRsDC003Z_NBQiuq0X1R/s1600/image.png"
+  image: "/images/blog/6f545df7cfdd.png"
   hiddenInSingle: true
 ---
 
@@ -17,7 +17,7 @@ cover:
   <a href="https://www.shopify.pxf.io/5420480-link" rel="nofollow sponsored noopener" style="background: rgb(242, 177, 52); border-radius: 30px; color: #12263a; display: inline-block; font-weight: bold; padding: 14px 28px; text-decoration: none;" target="_blank">Start your free Shopify trial</a>
 </div>
 <figure style="margin: 24px 0px; text-align: center;">
-  <img alt="How to start an online store in 2026 with Shopify, a beginner guide for South Africans" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjMzTYwfOZE59bKu0HL-po_obvkmPu9Ipwvagq_wx64mXTTbRUdmL31XfTZVeOp8hbaC5V2MA-7BwGiNpaOFgZE2-0mTKp5yilu7RrbHg8Cohto8Ohyphenhyphen4XxxAC1TauT52naFZMKTxl-b2_HMMqMfrDyhFlkhBIkCEyeLTsjMWIxBRsDC003Z_NBQiuq0X1R/s1600/image.png" style="border-radius: 8px; height: auto; max-width: 100%;" />
+  <img alt="How to start an online store in 2026 with Shopify, a beginner guide for South Africans" src="/images/blog/6f545df7cfdd.png" style="border-radius: 8px; height: auto; max-width: 100%;" />
   <figcaption style="color: #607080; font-size: 90%;">A beginner-friendly guide to launching a Shopify store from South Africa.</figcaption>
 </figure>
 <h2>Why beginners choose Shopify</h2>
@@ -42,7 +42,7 @@ cover:
 <h2>Shopify pricing in 2026</h2>
 
 <figure style="margin: 24px 0px; text-align: center;">
-  <img alt="Shopify plan prices in US dollars: Starter $5, Basic $39, Grow $105 and Advanced $399 per month" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHFY0pBDjNovwtLecQnf5WW9EEuLqaUbPtqHYqGkgUhYET9RyAFNJzN83u8egEMAk_4n_PI1aLz9DM7OWDtc4LvLYmHBih2OxQeWCJhet675lafodhvEN3mXlTUuS7ZU8DjFGATSgbCDAfrILFmGjssQ8CbAYT7v2HJ6aKUOJDFbEpdWz3_7wY8IioYuro/s1600/image.png" style="border-radius: 8px; height: auto; max-width: 100%;" />
+  <img alt="Shopify plan prices in US dollars: Starter $5, Basic $39, Grow $105 and Advanced $399 per month" src="/images/blog/f57452abc3de.png" style="border-radius: 8px; height: auto; max-width: 100%;" />
   <figcaption style="color: #607080; font-size: 90%;">Prices checked in November 2026. Always confirm on Shopify before you subscribe.</figcaption>
 </figure>
 <div style="overflow-x: auto;">
@@ -67,7 +67,7 @@ cover:
 <h2>How to start your Shopify store, step by step</h2>
 
 <figure style="margin: 24px 0px; text-align: center;">
-  <img alt="Launch your Shopify store in 6 steps: sign up, theme, products, payments, shipping, launch" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMHXh85PmeSuDySUYNEnin5HuVGe_5D9rFMNtTB1I8Q1IW8ekwWUeabB9P7-paPINMkrJjImmwBibPgcw0obmWEgfzmfEQQGE8XsMobR4peNpXkxrC4GM22QmzXZFy-ySEaYF5M4_zhEn0MmAA8JvFu1y9A_49gwXfcx3a_o5V97Iw8upq1_aKRM-iUlKe/s1600/image.png" style="border-radius: 8px; height: auto; max-width: 100%;" />
+  <img alt="Launch your Shopify store in 6 steps: sign up, theme, products, payments, shipping, launch" src="/images/blog/ce98d49642bd.png" style="border-radius: 8px; height: auto; max-width: 100%;" />
   <figcaption style="color: #607080; font-size: 90%;">The whole process at a glance.</figcaption>
 </figure>
 <h3>Step 1: Sign up and name your store</h3>
@@ -122,7 +122,7 @@ cover:
 <h3>Step 4: Connect a South African payment gateway</h3>
 
 <figure style="margin: 24px 0px; text-align: center;">
-  <img alt="Shopify Payments is not available in South Africa, so use a local payment gateway such as PayFast, Peach Payments, Ozow or Netcash" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJKKRlq372Lv8V-puijIoiotYM8jMToPoRBHt3B8KqgXLEZQxLdHwvcqwx-RE2xAOEZzEHiinWqSiHAISTYBmZ1Ibp7kAymjpjMYIeTN29HJmXDntQVTKbAb44rhJMPT9ugjIz4C5u-jeqqG-k6r5UL_GSp_J1Q2inlW7BSTSwTvKsrHEOG7L51pFsxi3N/s1600/image.png" style="border-radius: 8px; height: auto; max-width: 100%;" />
+  <img alt="Shopify Payments is not available in South Africa, so use a local payment gateway such as PayFast, Peach Payments, Ozow or Netcash" src="/images/blog/2ce13368051f.png" style="border-radius: 8px; height: auto; max-width: 100%;" />
   <figcaption style="color: #607080; font-size: 90%;">Third-party gateways add an extra Shopify transaction fee: 2% on Basic, 1% on Grow and 0.6% on Advanced.</figcaption>
 </figure>
 <p>This is the step where many South African beginners get stuck, because the tutorials they watch assume Shopify Payments is available. It is not available in South Africa, so you pick a local provider instead. The ones most often used with Shopify here are:</p>
@@ -163,7 +163,7 @@ cover:
 <h2>How to get your first visitors</h2>
 
 <figure style="margin: 24px 0px; text-align: center;">
-  <img alt="Five free ways to get visitors to your Shopify store: TikTok, Instagram Reels, YouTube Shorts, blog posts and Facebook groups" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqFvrUc3k-MD7Byh35iQqwLf1DYrS5HyswybongHw2MvEAYD-EyijjzfTvfUoM5VXmW6CDvpBwqCTno01A0gn6dmKW8JpWC-RyQz0hMpEGXpZgAldt-9ckOyTwXgY4vJe3TXnAK-TLN7RhRyVTuLdwPZI1HhHY83CBhHo8Hj5ogQ3QwaG-wPyM8l7Y9CSY/s1600/image.png" style="border-radius: 8px; height: auto; max-width: 100%;" />
+  <img alt="Five free ways to get visitors to your Shopify store: TikTok, Instagram Reels, YouTube Shorts, blog posts and Facebook groups" src="/images/blog/b983e31631b7.png" style="border-radius: 8px; height: auto; max-width: 100%;" />
   <figcaption style="color: #607080; font-size: 90%;">Pick one or two channels and stay consistent.</figcaption>
 </figure>
 <p>A new store has no visitors, so plan your marketing before launch day. These free channels work well for beginners:</p>

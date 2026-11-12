@@ -5,4 +5,16 @@ slug: "contact-us"
 url: "/p/contact-us.html"
 ---
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSekJoi0jPGfXdMjR4-JRF0hft5sOjhTbjlC1WvmlCtfMLlxKg/viewform?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<p>Have a question or a suggestion? Send a message and we will reply by email.</p>
+<form action="https://api.web3forms.com/submit" method="POST" class="contact-form">
+  <input type="hidden" name="access_key" value="043502a9-5fae-4da5-8303-c76e8da1d848">
+  <input type="hidden" name="subject" value="New message from Kapya Market">
+  <input type="checkbox" name="botcheck" style="display:none;">
+  <label>Name</label>
+  <input type="text" name="name" required>
+  <label>Email</label>
+  <input type="email" name="email" required>
+  <label>Message</label>
+  <textarea name="message" rows="6" required></textarea>
+  <button type="submit">Send message</button>
+</form>

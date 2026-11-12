@@ -5,7 +5,7 @@ slug: "how-to-build-website-with-ai-in-south"
 url: "/2026/11/how-to-build-website-with-ai-in-south.html"
 description: "Build a website with AI in South Africa. HostAfrica's AI builder costs R29.70 a month for 3 months, then R99. Steps, limits and who it suits."
 cover:
-  image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqsR4a_PXg2nrH3ezWjlwyXgmnhjUmLNrgsfY5u3_UUFkgYli_q7za3wJCkhgTh777SqL1rKYI1OLUM7yo0ou_QYziC9-zSQiVMZW7KqOObQbfTk3TtFl6lvXOt_mLmqs7WXi2-scQ2AGNDghEjTGdO-L4WZc1aQwzHc9sU1YlnXzMsym6Bil4N4Ldhib8/s1600/image.png"
+  image: "/images/blog/d9642a8a87dd.png"
   hiddenInSingle: true
 ---
 
@@ -18,7 +18,7 @@ cover:
   <a href="https://hostafrica.co.za/website-builder/easy-ai-builder/?aff=3166" rel="nofollow sponsored noopener" style="background: rgb(18, 38, 58); border-radius: 30px; color: white; display: inline-block; font-weight: bold; padding: 14px 28px; text-decoration: none;" target="_blank">Try the HostAfrica AI builder</a>
 </div>
 <figure style="margin: 24px 0px; text-align: center;">
-  <img alt="Build a website with AI in South Africa from R29.70 a month with HostAfrica" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqsR4a_PXg2nrH3ezWjlwyXgmnhjUmLNrgsfY5u3_UUFkgYli_q7za3wJCkhgTh777SqL1rKYI1OLUM7yo0ou_QYziC9-zSQiVMZW7KqOObQbfTk3TtFl6lvXOt_mLmqs7WXi2-scQ2AGNDghEjTGdO-L4WZc1aQwzHc9sU1YlnXzMsym6Bil4N4Ldhib8/s1600/image.png" style="border-radius: 8px; height: auto; max-width: 100%;" />
+  <img alt="Build a website with AI in South Africa from R29.70 a month with HostAfrica" src="/images/blog/d9642a8a87dd.png" style="border-radius: 8px; height: auto; max-width: 100%;" />
   <figcaption style="color: #607080; font-size: 90%;">R29.70 a month for the first three months, then R99.00.</figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ cover:
 
 <h2>Price</h2>
 <figure style="margin: 24px 0px; text-align: center;">
-  <img alt="HostAfrica AI website builder price: R29.70 a month for three months, then R99 a month" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA88NUnxNUlV4CDPcw-teiKidWS0JB4apuy_WNzi-xoSUaGu7MWLHUZn9VM9hZz1E8uzsYN7nyRSHj9Fv-CxI8_knVIBWJfOH4Wg7Gux_4WcgTzS7o3vTVW04Zcp13LmS0_iPTrBZBUfMNsFf-N1YWVRCtrUzjuTaaLbGx9TKwUfhZzt0f8ttB6tAnLOIb/s1600/image.png" style="border-radius: 8px; height: auto; max-width: 100%;" />
+  <img alt="HostAfrica AI website builder price: R29.70 a month for three months, then R99 a month" src="/images/blog/833ac062e046.png" style="border-radius: 8px; height: auto; max-width: 100%;" />
   <figcaption style="color: #607080; font-size: 90%;">Introductory price checked November 2026.</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ cover:
 
 <h2>How it works</h2>
 <figure style="margin: 24px 0px; text-align: center;">
-  <img alt="Four steps from idea to live website with the HostAfrica AI builder" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8oV8ys-k9gVqSlMMgmeQx2PfzCn1dxuHV9seayFtpErx3jTSYO16le5-rGIQxddQz9h-Ye2i8J-SBEM0hCIkvvaznJThnIPMIJKZMa22rpS_lPnYHBNNuxmQUJ2Vnf8LW2NBxe6PCOgUxWjDYqG6o5R2fBAWyiVS36Q9jPkLKzlh-Lp4rkG2GYX25NX2Z/s1600/image.png" style="border-radius: 8px; height: auto; max-width: 100%;" />
+  <img alt="Four steps from idea to live website with the HostAfrica AI builder" src="/images/blog/23605a62a203.png" style="border-radius: 8px; height: auto; max-width: 100%;" />
   <figcaption style="color: #607080; font-size: 90%;">Describe, edit, connect a domain, publish.</figcaption>
 </figure>
 
