@@ -39,3 +39,6 @@ weight = 3
 name = "Contact"
 url = "/p/contact-us.html"
 weight = 4
+
+[security]
+  allowContent = ['! ^text/org$']
