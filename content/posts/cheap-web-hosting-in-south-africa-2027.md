@@ -4,6 +4,9 @@ date: 2026-11-03T12:57:27.320Z
 slug: "cheap-web-hosting-in-south-africa-2027"
 url: "/2026/11/cheap-web-hosting-in-south-africa-2027.html"
 description: "HostAfrica web hosting from R99 a month in South Africa. Plans, prices, a free .co.za domain, and how to launch a WordPress site."
+cover:
+  image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUaMVnm0DzxkAQid7-cTPdsjDcH5XtFbK56ReGbVsoTk0zlTNYSJMHo2uMnmZ9RJyrREMuqtYgaB7HhitVEEDyo1EenxqfGdmKgBRoU6mKd7C3oBWCe-MwmhwZ2RYlKUG-FlNcbHoKG5FU_tfzjET7GlV1bDMKp_tLCJGTG-7GbsWN54au6rtN6mO1mvnz/s1600/image.png"
+  hiddenInSingle: true
 ---
 
 <p><em>Affiliate Disclosure: This post contains affiliate links. If you click and make a purchase, I may earn a commission at no extra cost to you. Read my full <a href="https://www.kapyamarket.co.za/p/affiliate-disclosure.html">Affiliate Disclosure</a> for more info.</em></p>

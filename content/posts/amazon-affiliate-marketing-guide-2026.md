@@ -12,6 +12,9 @@ tags:
   - "Kapya Market Guides"
   - "Blogging Equipment"
   - "How To Start Affiliate Marketing"
+cover:
+  image: "https://hostafrica.co.za/wp-content/uploads/2022/09/smiling-guy-cellphone.jpg"
+  hiddenInSingle: true
 ---
 
 <!--Google Local Product Review Schema to Force Indexing-->

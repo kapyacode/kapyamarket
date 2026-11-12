@@ -13,6 +13,9 @@ tags:
   - "Passive Income"
   - "South Africa"
   - "Zero Dollar Side Hustle"
+cover:
+  image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQExNYhk1_UGO6uSQ3oKzKH4zWYETT2XS8W45QQF1EuCQrkhRjeZ3K-ZsWwhw0kykW7LGnNyPP1m4Z5VKJt4KnnhZcFFdUmDsnTUjUxSpqcdjy3qOIfMuDIzC97LSCm-bterfWSGi0iidJayZK5wXWmEVHIvPXN_OqkxixG2PFCXhaMUwo0QDtvpLox-wx/w213-h320-rw/pexels-cottonbro-4058741.jpg"
+  hiddenInSingle: true
 ---
 
 <p><em><strong>Affiliate Disclosure:</strong> This post contains affiliate links. If you click and make a purchase, I may earn a commission at no extra cost to you. <a href="https://www.kapyamarket.co.za/p/affiliate-disclosure.html">Read my full Affiliate Disclosure</a> for more info.</em></p>

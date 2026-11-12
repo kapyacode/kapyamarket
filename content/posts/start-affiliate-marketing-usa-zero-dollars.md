@@ -14,6 +14,9 @@ tags:
   - "Kapya Market Guides"
   - "South Africa"
   - "Side Hustle 2026"
+cover:
+  image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhdxZ2sKPDyuAOzNIgopcaCDrWAIAa2rq47hJ_V4t6gFLc9KofLjZFUJtANUvSAiMO2lze-d70v6xisYUMoFgiMOLORp1VBU_MRP-tBpyZE1C-NR9EfXty-plOcOVUhm3WghdFYVco2U_uHjBHuOcPBqnp6ZlDNEGnSMY4u1JXkOpua9MXVGSca8QT9Pqn/w640-h427-rw/3.png"
+  hiddenInSingle: true
 ---
 
 <p><em><strong>Affiliate Disclosure:</strong> This post contains affiliate links. If you click and make a purchase, I may earn a small commission at no extra cost to you. <a href="https://www.kapyamarket.co.za/p/affiliate-disclosure.html" rel="noopener" target="_blank">Read my full Affiliate Disclosure</a> for more info.</em></p>

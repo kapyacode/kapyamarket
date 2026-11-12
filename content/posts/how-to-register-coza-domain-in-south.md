@@ -4,6 +4,9 @@ date: 2026-11-03T18:50:46.680Z
 slug: "how-to-register-coza-domain-in-south"
 url: "/2026/11/how-to-register-coza-domain-in-south.html"
 description: "Register a .co.za domain in South Africa from R49 a year. HostAfrica domain prices, renewal costs, and a simple three-step guide."
+cover:
+  image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOg7mlNp5K21ok50w2NppWrOQupuC8XCfV92e801x3ocXeqb816VirqzDGGy03l7Y6ZoIcMvMHc_sOwqO2-4pUf0651q4kiyiNkqBw64RXs_xJI0KYRRxHs6MbzTG9Jjtj1A1TJ7fGaVOZrJ04W3ip10lC5qjxYfZJqIHSC7TsEIhRrpdGHjZMae6qkgHu/s1600/image.png"
+  hiddenInSingle: true
 ---
 
 <p><em>Affiliate Disclosure: This post contains affiliate links. If you click and make a purchase, I may earn a commission at no extra cost to you. Read my full <a href="https://www.kapyamarket.co.za/p/affiliate-disclosure.html">Affiliate Disclosure</a> for more info.</em></p>

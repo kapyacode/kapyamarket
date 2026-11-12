@@ -11,6 +11,9 @@ tags:
   - "Make Money Online 2026"
   - "Online Business"
   - "Kapya Market Guides"
+cover:
+  image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0aJ8mkuU-8hNo8bka-u-Lny5AtUxBdZLuTR-KUtZH7AbI5jWpbKaEW4Lcq5HGzABfd9KjNFIgFml9lY6gR90eflpq-QJ6M7P4Obko0JrntqRWZbAX_4syq1ZYrJr1MmPiQATo8ACJaRa3W89-jDbqbmWq4giVSy3zw9b5EBmlPaI6vVZ0xNJa3rwKhRQF/s3780-rw/Cream%20Illustrative%20Digital%20Marketing%20Banner.png"
+  hiddenInSingle: true
 ---
 
 <h1>5 Digital Marketing Mistakes SA Beginners Make</h1>

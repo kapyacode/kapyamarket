@@ -7,6 +7,9 @@ description: "Honest Shopify review for South Africans in 2026. Pricing, feature
 tags:
   - "Shopify"
   - "Make Money Online 2026"
+cover:
+  image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVXXHqN7JQGMQ2S-iTpPxX2yd8q6msQShtKMHVBTYxJjBAxOwwEyS3KftxRp0lpdpvZr7oF470GodRn7Psbtiy1e8eHS9XhDiCMVCOmR06eixZXPsw8aU5vxtyjkv2MnBoEhya5DkzcPVzX0feSKB1MOOsxekGMqBZ_2nXWsMYVTBd6hi_qdsQAo0RGPrm/w320-h167/Starting%20a%20store%20is%20easier%20than%20you%20think%20-%20Product%20-%20US%20-%20English%20-%201.91x1.png"
+  hiddenInSingle: true
 ---
 
 <p><em><strong>Affiliate Disclosure:</strong> This post contains affiliate links. If you click and make a purchase, I may earn a commission at no extra cost to you. <a href="https://www.kapyamarket.co.za/p/affiliate-disclosure.html">Read my full Affiliate Disclosure</a> for more info.</em></p>

@@ -12,6 +12,9 @@ tags:
   - "Blogging"
   - "Online Business"
   - "Beginner Affiliate Marketing"
+cover:
+  image: "https://www.cloudways.com/affiliate/accounts/default1/banners/18b275e1.jpg"
+  hiddenInSingle: true
 ---
 
 <p><em><strong>Affiliate Disclosure:</strong> This post contains affiliate links. If you click and make a purchase, I may earn a commission at no extra cost to you. <a href="https://www.kapyamarket.co.za/p/affiliate-disclosure.html">Read my full Affiliate Disclosure</a> for more info.</em></p>

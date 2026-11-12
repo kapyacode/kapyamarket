@@ -10,6 +10,9 @@ tags:
   - "Beginner Affiliate Marketing"
   - "How To Start Affiliate Marketing"
   - "Niche Down Strategy"
+cover:
+  image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_Z3mKFIFTWRuqKjzMn_T9oV8R08sWkN-Bur1hJ2ro7Z_PtuNmz4LIPPMgDjv7AZ9JwX2x-_XMiqONuyMFYkBViESYh_-hfKPzRL9ZOmEyNgPnA-vEBZVpo9OkpTmjkB3rtVxNqDqKaa84r__AFWXUuqJIdyFzK4DhhbaKoX9JNZPanpCpkBXEwEVcPgFR/w320-h214/pexels-divinetechygirl-1181465.jpg"
+  hiddenInSingle: true
 ---
 
 <p><em><strong>Affiliate Disclosure:</strong> This post contains affiliate links. If you click and make a purchase, I may earn a commission at no extra cost to you. <a href="https://www.kapyamarket.co.za/p/affiliate-disclosure.html">Read my full Affiliate Disclosure</a> for more info.</em></p>

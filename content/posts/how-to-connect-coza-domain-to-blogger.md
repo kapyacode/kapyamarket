@@ -4,6 +4,9 @@ date: 2026-11-06T13:01:38Z
 slug: "how-to-connect-coza-domain-to-blogger"
 url: "/2026/11/how-to-connect-coza-domain-to-blogger.html"
 description: "Learn how to point your .co.za domain to Blogger using CNAME and A records. Simple steps for beginners, plus fixes for common errors."
+cover:
+  image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiClfu-UggUJAS7h0ISqtPc4gEXAnhupuw2hkZX_mQ1PBZg2vtsOSIMN6OkU-09K-YpuI7NHNROTiVn3fiJmvuIQBOv4lzCLoYef4-Y1ASxS_MRbzjmW6GDoCpUHilUuSf-29LqsmUfwtb7uWa2Cu9zJsuAUp8FBZE5MIUtLtDIxivsIuRGBgCpHK94b7ov/s1600/image.png"
+  hiddenInSingle: true
 ---
 
 <!-- ===== BLOGGER POST SETTINGS (set these in the right sidebar, not in the HTML) =====

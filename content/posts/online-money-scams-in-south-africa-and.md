@@ -17,6 +17,9 @@ tags:
   - "Affiliate Marketing"
   - "SEO"
   - "South Africa"
+cover:
+  image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPc_RkEZV0pXuQC_MH9RzeAATQh6d4M5oNVoXaEyF6dA4Z66dEmKVNyi1Rx_2CpnAk3Y3jFkMSUejYfh7e9mFzDyOX2w9y4G0eJwj61588kd4N0q66h_fOGnzBMrWZq5W5OGzgLT1U_-uGPUXLWlyR46O8ifTqvMDbvmxCdnFBHqncIyogd_M4hqK2w3PA/w640-h426/HostAfrica%20Domain%20Registration%20Promotion.png"
+  hiddenInSingle: true
 ---
 
 <div style="color: #222222; font-family: Arial, Helvetica, sans-serif; line-height: 1.7; margin: 0 auto; max-width: 720px;">

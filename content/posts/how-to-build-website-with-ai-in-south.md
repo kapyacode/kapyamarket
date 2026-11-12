@@ -4,6 +4,9 @@ date: 2026-11-03T18:53:39.785Z
 slug: "how-to-build-website-with-ai-in-south"
 url: "/2026/11/how-to-build-website-with-ai-in-south.html"
 description: "Build a website with AI in South Africa. HostAfrica's AI builder costs R29.70 a month for 3 months, then R99. Steps, limits and who it suits."
+cover:
+  image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqsR4a_PXg2nrH3ezWjlwyXgmnhjUmLNrgsfY5u3_UUFkgYli_q7za3wJCkhgTh777SqL1rKYI1OLUM7yo0ou_QYziC9-zSQiVMZW7KqOObQbfTk3TtFl6lvXOt_mLmqs7WXi2-scQ2AGNDghEjTGdO-L4WZc1aQwzHc9sU1YlnXzMsym6Bil4N4Ldhib8/s1600/image.png"
+  hiddenInSingle: true
 ---
 
 <p><em>Affiliate Disclosure: This post contains affiliate links. If you click and make a purchase, I may earn a commission at no extra cost to you. Read my full <a href="https://www.kapyamarket.co.za/p/affiliate-disclosure.html">Affiliate Disclosure</a> for more info.</em></p>
