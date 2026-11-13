@@ -6,6 +6,7 @@ url: "/2026/11/how-to-start-online-store-in-2027.html"
 description: "Start an online store in 2026 with Shopify. Step-by-step guide for South Africans: pricing, trial, local payment gateways, shipping and traffic."
 cover:
   image: "/images/blog/6f545df7cfdd.png"
+  alt: "How to Start an Online Store in 2027"
   hiddenInSingle: true
 ---
 

@@ -14,6 +14,7 @@ tags:
   - "Beginner Affiliate Marketing"
 cover:
   image: "https://www.cloudways.com/affiliate/accounts/default1/banners/18b275e1.jpg"
+  alt: "Cloudways Review 2026: Best Managed Cloud Hosting?"
   hiddenInSingle: true
 ---
 

@@ -14,6 +14,7 @@ tags:
   - "Business Ideas 2026"
 cover:
   image: "//a.impactradius-go.com/display-ad/13624-3797171"
+  alt: "How to Start an Online Store in 2026 (Shopify Guide)"
   hiddenInSingle: true
 ---
 

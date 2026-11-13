@@ -12,6 +12,7 @@ tags:
   - "Affiliate Marketing 2026"
 cover:
   image: "/images/blog/97ad6b2a5fb2.jpg"
+  alt: "Logitech C920 Review: Best Webcam for Bloggers?"
   hiddenInSingle: true
 ---
 

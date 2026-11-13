@@ -6,6 +6,7 @@ url: "/2026/11/cheap-web-hosting-in-south-africa-2027.html"
 description: "HostAfrica web hosting from R99 a month in South Africa. Plans, prices, a free .co.za domain, and how to launch a WordPress site."
 cover:
   image: "/images/blog/941dafac8fc1.png"
+  alt: "Cheap Web Hosting in South Africa 2027"
   hiddenInSingle: true
 ---
 

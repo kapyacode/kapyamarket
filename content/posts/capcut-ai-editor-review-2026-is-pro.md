@@ -11,6 +11,7 @@ tags:
   - "Make Money Online 2026"
 cover:
   image: "https://www.ftjcfx.com/do98o26v0zKMLMSPQTQMKMSNSNTNU"
+  alt: "CapCut Pro Review 2026: Is the Subscription Worth It?"
   hiddenInSingle: true
 ---
 

@@ -6,6 +6,7 @@ url: "/2026/11/how-to-register-coza-domain-in-south.html"
 description: "Register a .co.za domain in South Africa from R49 a year. HostAfrica domain prices, renewal costs, and a simple three-step guide."
 cover:
   image: "/images/blog/bc29d5ae181a.png"
+  alt: "How to Register a .co.za Domain in South Africa "
   hiddenInSingle: true
 ---
 

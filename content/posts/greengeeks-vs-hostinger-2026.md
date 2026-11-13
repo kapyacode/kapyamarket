@@ -16,6 +16,7 @@ tags:
   - "Affiliate Marketing"
 cover:
   image: "https://ads.greengeeks.com/00040055.gif"
+  alt: "GreenGeeks vs Hostinger 2026: Full Comparison"
   hiddenInSingle: true
 ---
 

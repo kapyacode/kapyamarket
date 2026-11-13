@@ -13,6 +13,7 @@ tags:
   - "Kapya Market Guides"
 cover:
   image: "/images/blog/4b9002fa11ca.png"
+  alt: "5 Digital Marketing Mistakes SA Beginners Make"
   hiddenInSingle: true
 ---
 

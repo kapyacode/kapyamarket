@@ -12,6 +12,7 @@ tags:
   - "Make Money Online 2026"
 cover:
   image: "https://ads.greengeeks.com/00040047.gif"
+  alt: "Best WordPress Plugins for Affiliate Blogs 2026"
   hiddenInSingle: true
 ---
 

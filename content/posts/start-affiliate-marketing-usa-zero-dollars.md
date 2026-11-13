@@ -16,6 +16,7 @@ tags:
   - "Side Hustle 2026"
 cover:
   image: "/images/blog/96f290ba17c2.png"
+  alt: "Affiliate Marketing South Africa: Start with R0 in 2026"
   hiddenInSingle: true
 ---
 

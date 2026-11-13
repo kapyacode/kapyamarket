@@ -14,6 +14,7 @@ tags:
   - "How To Start Affiliate Marketing"
 cover:
   image: "https://hostafrica.co.za/wp-content/uploads/2022/09/smiling-guy-cellphone.jpg"
+  alt: "Amazon Affiliate Marketing for Beginners 2026"
   hiddenInSingle: true
 ---
 

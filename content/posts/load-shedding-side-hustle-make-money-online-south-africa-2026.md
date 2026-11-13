@@ -15,6 +15,7 @@ tags:
   - "Zero Dollar Side Hustle"
 cover:
   image: "/images/blog/b17592f26348.jpg"
+  alt: "Load Shedding Side Hustle: Make Money Online SA"
   hiddenInSingle: true
 ---
 

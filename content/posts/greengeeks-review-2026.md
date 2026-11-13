@@ -12,6 +12,7 @@ tags:
   - "Cheap Web Hosting"
 cover:
   image: "https://ads.greengeeks.com/00040047.gif"
+  alt: "GreenGeeks Review 2026: Eco-Friendly Hosting"
   hiddenInSingle: true
 ---
 

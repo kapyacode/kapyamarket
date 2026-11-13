@@ -12,6 +12,7 @@ tags:
   - "Niche Down Strategy"
 cover:
   image: "/images/blog/173a8676887e.jpg"
+  alt: "How to Choose Your First Affiliate Niche 2026"
   hiddenInSingle: true
 ---
 

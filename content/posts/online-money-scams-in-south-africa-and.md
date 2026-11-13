@@ -19,6 +19,7 @@ tags:
   - "South Africa"
 cover:
   image: "/images/blog/2457b9fe5f79.png"
+  alt: "Register Your Domain Name with HostAfrica: Start Your Online Presence Today"
   hiddenInSingle: true
 ---
 

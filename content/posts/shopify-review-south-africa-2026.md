@@ -9,6 +9,7 @@ tags:
   - "Make Money Online 2026"
 cover:
   image: "/images/blog/aa0054b927dc.png"
+  alt: "Shopify Review 2026: Is It Worth It in South Africa?"
   hiddenInSingle: true
 ---
 

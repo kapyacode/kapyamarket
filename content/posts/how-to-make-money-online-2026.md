@@ -17,6 +17,7 @@ tags:
   - "Kapya Market Guides"
 cover:
   image: "/images/blog/3ab43c56f2cd.png"
+  alt: "How to Make Money Online in 2026: 7 Real Methods"
   hiddenInSingle: true
 ---
 

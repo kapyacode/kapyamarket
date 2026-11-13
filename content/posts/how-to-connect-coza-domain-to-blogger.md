@@ -6,6 +6,7 @@ url: "/2026/11/how-to-connect-coza-domain-to-blogger.html"
 description: "Learn how to point your .co.za domain to Blogger using CNAME and A records. Simple steps for beginners, plus fixes for common errors."
 cover:
   image: "/images/blog/db2bc43b8218.png"
+  alt: "How to Connect a .co.za Domain to Blogger (Step by Step)"
   hiddenInSingle: true
 ---
 

@@ -18,6 +18,7 @@ tags:
   - "hosting comparison"
 cover:
   image: "/images/blog/5292b48b97dd.jpg"
+  alt: "Best Web Hosting South Africa - Complete Guide 2026"
   hiddenInSingle: true
 ---
 
