@@ -1,12 +1,12 @@
 ---
-title: "How to Start an Online Store in 2027"
+title: "How to Start an Online Store in 2026"
 date: 2026-11-04T04:53:23.517Z
 slug: "how-to-start-online-store-in-2027"
 url: "/2026/11/how-to-start-online-store-in-2027.html"
 description: "Start an online store in 2026 with Shopify. Step-by-step guide for South Africans: pricing, trial, local payment gateways, shipping and traffic."
 cover:
   image: "/images/blog/6f545df7cfdd.png"
-  alt: "How to Start an Online Store in 2027"
+  alt: "How to Start an Online Store in 2026"
   hiddenInSingle: true
 ---
 
