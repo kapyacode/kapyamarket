@@ -53,3 +53,9 @@ Content = '<p class="hero-tag">Practical guides on affiliate marketing, blogging
 
 [params.label]
 text = "Kapya Market"
+
+[params.assets]
+  favicon = "/favicon.ico"
+  favicon16x16 = "/favicon-16x16.png"
+  favicon32x32 = "/favicon-32x32.png"
+  apple_touch_icon = "/apple-touch-icon.png"
