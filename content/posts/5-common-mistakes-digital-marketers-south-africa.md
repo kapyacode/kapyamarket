@@ -156,35 +156,4 @@ cover:
 </ul>
 
 <hr/>
-<!-- Kapya Market Author Bio Block — paste at the bottom of every post in HTML view -->
-<div style="background:#f8f9fa; border-left:4px solid #1a1a2e; border-radius:8px; padding:20px 24px; margin:32px 0 16px 0; font-family:Arial, sans-serif;">
-
-  <!-- Name & Title -->
-  <p style="margin:0 0 4px 0;">
-    <strong style="font-size:16px; color:#1a1a2e;">Joseph Kapya</strong>
-    &nbsp;·&nbsp;
-    <span style="font-size:13px; color:#666666;">Founder, Kapya Market</span>
-  </p>
-
-  <!-- Bio text -->
-  <p style="font-size:14px; color:#444444; line-height:1.7; margin:8px 0 12px 0;">
-    Joseph is a digital marketer and affiliate blogger based in Johannesburg, South Africa. He started Kapya Market to help beginners across Africa learn how to build real online income through affiliate marketing, blogging, and SEO — starting with zero budget. He writes from personal experience, sharing only tools and strategies he has personally tested.
-  </p>
-
-  <!-- Links -->
-  <p style="margin:0; font-size:13px;">
-    <a href="https://www.kapyamarket.co.za/p/about.html" style="color:#1a1a2e; text-decoration:underline;">About KAPYA</a>
-    &nbsp;·&nbsp;
-    <a href="https://www.kapyamarket.co.za/p/contact-us.html" style="color:#1a1a2e; text-decoration:underline;">Contact</a>
-    &nbsp;·&nbsp;
-    <a href="https://www.facebook.com/profile.php?id=61596068272606" style="color:#1a1a2e; text-decoration:underline;" target="_blank" rel="nofollow">Facebook</a>
-    &nbsp;·&nbsp;
-    <a href="https://za.pinterest.com/kapyaAffiliate/" style="color:#1a1a2e; text-decoration:underline;" target="_blank" rel="nofollow">Pinterest</a>
-    &nbsp;·&nbsp;
-    <a href="https://www.youtube.com/@KAPYA-j9z" style="color:#1a1a2e; text-decoration:underline;" target="_blank" rel="nofollow">YouTube</a>
-  </p>
-
-</div>
-<!-- End Author Bio Block -->
-
 <p><em>Disclosure: Kapya Market participates in the Amazon Associates Program, the HostAfrica Affiliate Program, and the GreenGeeks Affiliate Program. As an affiliate, I earn commissions from qualifying purchases at no extra cost to you. I only recommend tools I personally use and have tested.</em></p>

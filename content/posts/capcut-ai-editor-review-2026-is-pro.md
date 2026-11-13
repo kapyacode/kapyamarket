@@ -193,34 +193,4 @@ cover:
 <li><a href="https://www.kapyamarket.co.za/2026/05/what-is-affiliate-marketing-complete-guide.html">What Is Affiliate Marketing? Beginner Guide 2026</a></li>
 <li><a href="https://www.kapyamarket.co.za/2026/05/how-to-make-money-online-2026.html">How to Make Money Online in 2026: 7 Real Methods</a></li>
 </ul>
-<!--Kapya Market Author Bio Block — paste at the bottom of every post in HTML view-->
-<div style="background: rgb(248, 249, 250); border-left: 4px solid rgb(26, 26, 46); border-radius: 8px; font-family: Arial, sans-serif; margin: 32px 0px 16px; padding: 20px 24px;">
-
-  <!--Name & Title-->
-  <p style="margin: 0px 0px 4px;">
-    <strong style="color: #1a1a2e; font-size: 16px;">Joseph Kapya</strong>
-    &nbsp;·&nbsp;
-    <span style="color: #666666; font-size: 13px;">Founder, Kapya Market</span>
-  </p>
-
-  <!--Bio text-->
-  <p style="color: #444444; font-size: 14px; line-height: 1.7; margin: 8px 0px 12px;">
-    Joseph is a digital marketer and affiliate blogger based in Johannesburg, South Africa. He started Kapya Market to help beginners across Africa learn how to build real online income through affiliate marketing, blogging, and SEO — starting with zero budget. He writes from personal experience, sharing only tools and strategies he has personally tested.
-  </p>
-
-  <!--Links-->
-  <p style="font-size: 13px; margin: 0px;">
-    <a href="https://www.kapyamarket.co.za/p/about.html" style="color: #1a1a2e; text-decoration: underline;">About Joseph</a>
-    &nbsp;·&nbsp;
-    <a href="https://www.kapyamarket.co.za/p/contact-us.html" style="color: #1a1a2e; text-decoration: underline;">Contact</a>
-    &nbsp;·&nbsp;
-    <a href="https://www.facebook.com/profile.php?id=61596068272606" rel="nofollow" style="color: #1a1a2e; text-decoration: underline;" target="_blank">Facebook</a>
-    &nbsp;·&nbsp;
-    <a href="https://za.pinterest.com/kapyaAffiliate/" rel="nofollow" style="color: #1a1a2e; text-decoration: underline;" target="_blank">Pinterest</a>
-    &nbsp;·&nbsp;
-    <a href="https://www.youtube.com/@KAPYA-j9z" rel="nofollow" style="color: #1a1a2e; text-decoration: underline;" target="_blank">YouTube</a>
-  </p>
-
-</div>
-<!--End Author Bio Block-->
 <p><em>Disclosure: This post contains affiliate links. Kapya Market may earn a commission if you purchase through these links, at no extra cost to you. I only recommend tools I personally use and have tested.</em></p>
