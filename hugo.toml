@@ -1,4 +1,4 @@
-languageCode = "en-ZA"
+locale = "en-ZA"
 baseURL = "https://www.kapyamarket.co.za/"
 title = "Kapya Market"
 theme = "PaperMod"
