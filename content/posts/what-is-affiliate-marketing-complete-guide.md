@@ -15,6 +15,7 @@ cover:
   image: "/images/blog/c9208e9caa7f.jpg"
   alt: "How to Start Affiliate Marketing (Beginner Guide)"
   hiddenInSingle: true
+weight: 1
 ---
 
 <h1>What Is Affiliate Marketing? Beginner Guide 2026</h1>
