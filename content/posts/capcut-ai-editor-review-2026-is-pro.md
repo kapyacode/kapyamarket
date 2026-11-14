@@ -10,7 +10,7 @@ tags:
   - "Digital Marketing"
   - "Make Money Online 2026"
 cover:
-  image: "https://www.ftjcfx.com/do98o26v0zKMLMSPQTQMKMSNSNTNU"
+  image: "/images/blog/196345b67d85.jpg"
   alt: "CapCut Pro Review 2026: Is the Subscription Worth It?"
   hiddenInSingle: true
 ---
@@ -22,7 +22,7 @@ cover:
 <!--Banner Image 1-->
 <p style="text-align: center;">
 <a href="https://www.dpbolvw.net/4877xdmjdl021285696202838393A" rel="nofollow sponsored" target="_blank">
-<img alt="CapCut AI Editor Pro Subscription" border="0" src="https://www.ftjcfx.com/do98o26v0zKMLMSPQTQMKMSNSNTNU" style="height: auto; max-width: 100%;" />
+<img alt="CapCut AI Editor Pro Subscription" border="0" src="/images/blog/196345b67d85.jpg" style="height: auto; max-width: 100%;" />
 </a>
 </p>
 

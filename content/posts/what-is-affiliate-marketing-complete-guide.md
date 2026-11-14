@@ -116,64 +116,6 @@ cover:
 
 {{< mailerlite >}}
 
-  <div class="g-recaptcha" data-sitekey="6Lf1KHQUAAAAAFNKEX1hdSWCS3mRMv4FlFaNslaD"></div>
-</div>
-
-
-              
-              <input type="hidden" name="ml-submit" value="1">
-
-              <div class="ml-form-embedSubmit">
-                
-                  <button type="submit" class="primary">GET FREE ACCESS →</button>
-                
-                <button disabled="disabled" style="display: none;" type="button" class="loading">
-                  <div class="ml-form-embedSubmitLoad"></div>
-                  <span class="sr-only">Loading...</span>
-                </button>
-              </div>
-
-              
-              <input type="hidden" name="anticsrf" value="true">
-            </form>
-          </div>
-
-          <div class="ml-form-successBody row-success" style="display: none">
-
-            <div class="ml-form-successContent">
-              
-                <h4>Thank you!</h4>
-                
-                  <p>You have successfully joined our subscriber list.</p>
-                
-              
-            </div>
-
-          </div>
-        </div>
-      </div>
-    </div>
-
-  
-
-  
-  <script>
-    function ml_webform_success_42259756() {
-    try {
-        window.top.location.href = 'https://storage.googleapis.com/mailerlite-uploads-prod/u2321415/ZGOoKjDz3xlx2n5miTDkoS7NSqG3UHOmLK9pEoxN.pdf';
-      } catch (e) {
-        window.location.href = 'https://storage.googleapis.com/mailerlite-uploads-prod/u2321415/ZGOoKjDz3xlx2n5miTDkoS7NSqG3UHOmLK9pEoxN.pdf';
-      }
-    }
-      </script>
-  
-  
-  
-      <script src="https://groot.mailerlite.com/js/w/webforms.min.js?vb397d78ebaa8a0f631d35384c46d781b" type="text/javascript"></script>
-        <script>
-            fetch("https://assets.mailerlite.com/jsonp/2321415/forms/189467464062469624/takel")
-        </script>
-
 <h3>Step 5: Track &amp; Improve</h3>
 <p>Amazon Associates → Reports. Check clicks daily. If 100 people click but 0 buy, your post needs work. If 10 clicks = 1 sale, write more posts like that.</p>
 

@@ -11,7 +11,7 @@ tags:
   - "Green Web Hosting"
   - "Cheap Web Hosting"
 cover:
-  image: "https://ads.greengeeks.com/00040047.gif"
+  image: "/images/blog/bb0d3ec7b247.gif"
   alt: "GreenGeeks Review 2026: Eco-Friendly Hosting"
   hiddenInSingle: true
 ---
@@ -44,7 +44,7 @@ cover:
 
 <p style="text-align: center;">
   <a href="https://www.greengeeks.com/track/kapyamarket/cp-default" rel="sponsored nofollow" target="_blank">
-    <img alt="GreenGeeks Eco-Friendly WordPress Hosting $2.95" src="https://ads.greengeeks.com/00040047.gif" />
+    <img alt="GreenGeeks Eco-Friendly WordPress Hosting $2.95" src="/images/blog/bb0d3ec7b247.gif" />
   </a>
 </p>
 
@@ -258,7 +258,7 @@ A: Use the Amsterdam data center. My test site loaded in 1.4s from Cape Town. Fo
 
 <p style="text-align: center;">
   <a href="https://www.greengeeks.com/track/kapyamarket/cp-default" rel="sponsored nofollow" target="_blank">
-    <img alt="GreenGeeks Eco-Friendly WordPress Hosting $2.95" src="https://ads.greengeeks.com/00040047.gif" />
+    <img alt="GreenGeeks Eco-Friendly WordPress Hosting $2.95" src="/images/blog/bb0d3ec7b247.gif" />
   </a>
 </p>
 

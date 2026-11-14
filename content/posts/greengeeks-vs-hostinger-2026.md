@@ -15,7 +15,7 @@ tags:
   - "Blogging"
   - "Affiliate Marketing"
 cover:
-  image: "https://ads.greengeeks.com/00040055.gif"
+  image: "/images/blog/3b351b2e82fc.gif"
   alt: "GreenGeeks vs Hostinger 2026: Full Comparison"
   hiddenInSingle: true
 ---
@@ -34,7 +34,7 @@ cover:
 
 <p style="text-align: center;">
   <a href="https://www.greengeeks.com/track/kapyamarket" rel="sponsored nofollow" target="_blank">
-    <img alt="GreenGeeks Web Hosting $2.95" src="https://ads.greengeeks.com/00040055.gif" title="GreenGeeks 2026 hosting plans and pricing tier chart" style="width:468px;" />
+    <img alt="GreenGeeks Web Hosting $2.95" src="/images/blog/3b351b2e82fc.gif" title="GreenGeeks 2026 hosting plans and pricing tier chart" style="width:468px;" />
   </a>
 </p>
 
