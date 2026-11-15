@@ -3,6 +3,7 @@ title: "Welcome to Kapya Market: Start Here"
 date: 2026-11-14T09:00:00+02:00
 draft: false
 slug: "welcome-to-kapya-market"
+url: "/2026/11/welcome-to-kapya-market.html"
 description: "New to Kapya Market? Start here for beginner-friendly guides on affiliate marketing, blogging, web hosting and building an online business in South Africa."
 tags:
   - "Getting Started"
@@ -36,27 +37,27 @@ Pick the path that matches you:
 
 ### 1. I am new and want the basics
 
-Read [How to Start Affiliate Marketing (Beginner Guide)](/2026/05/what-is-affiliate-marketing-complete-guide). It explains what affiliate marketing is, how it works and what to do first.
+Read [How to Start Affiliate Marketing (Beginner Guide)](/2026/05/what-is-affiliate-marketing-complete-guide.html). It explains what affiliate marketing is, how it works and what to do first.
 
-[![Beginner guide to affiliate marketing](/images/blog/c9208e9caa7f.jpg)](/2026/05/what-is-affiliate-marketing-complete-guide)
+[![Beginner guide to affiliate marketing](/images/blog/c9208e9caa7f.jpg)](/2026/05/what-is-affiliate-marketing-complete-guide.html)
 
 ### 2. I want to know my options for earning online
 
-Read [How to Make Money Online in 2026](/2026/05/how-to-make-money-online-2026) for a clear look at the main methods.
+Read [How to Make Money Online in 2026](/2026/05/how-to-make-money-online-2026.html) for a clear look at the main methods.
 
-[![How to make money online in 2026](/images/blog/3ab43c56f2cd.png)](/2026/05/how-to-make-money-online-2026)
+[![How to make money online in 2026](/images/blog/3ab43c56f2cd.png)](/2026/05/how-to-make-money-online-2026.html)
 
 ### 3. I want my own blog
 
-Read [How to Start a Blog and Make Money in 2026](/2026/05/how-to-start-blog-make-money-2026) for the steps from idea to first post.
+Read [How to Start a Blog and Make Money in 2026](/2026/05/how-to-start-blog-make-money-2026.html) for the steps from idea to first post.
 
 
 
 ### 4. I already have a domain name
 
-Read [How to Connect a .co.za Domain to Blogger](/2026/11/how-to-connect-coza-domain-to-blogger) for a step-by-step walkthrough.
+Read [How to Connect a .co.za Domain to Blogger](/2026/11/how-to-connect-coza-domain-to-blogger.html) for a step-by-step walkthrough.
 
-[![How to connect a .co.za domain to Blogger](/images/blog/db2bc43b8218.png)](/2026/11/how-to-connect-coza-domain-to-blogger)
+[![How to connect a .co.za domain to Blogger](/images/blog/db2bc43b8218.png)](/2026/11/how-to-connect-coza-domain-to-blogger.html)
 
 ## What to expect from these guides
 
