@@ -90,7 +90,7 @@ weight: 1
 <p>Don't be "general." Pick 1 topic. Examples: "blogging for moms," "budget gaming setups," "plant care." I picked "affiliate marketing for beginners."</p>
 
 <h3>Step 2: Launch a Simple Blog</h3>
-<p>You need a home base. Use Blogger like this site — it's free. Or use WordPress with real hosting if you have a budget.</p>
+<p>You need a home base. Start with a free platform such as Blogger or WordPress.com. Or use WordPress with real hosting if you have a budget.</p>
 <ul>
 <li><strong>South African traffic?</strong> Use <a href="https://my.hostafrica.com/aff.php?aff=3166">HostAfrica</a> — local Johannesburg servers, pay by EFT, from R49/month.</li>
 <li><strong>Global traffic (USA, UK, AU)?</strong> Use <a href="https://www.greengeeks.com/track/kapyamarket">GreenGeeks</a> — $2.95/month, 300% green energy, 6 global data centers.</li>

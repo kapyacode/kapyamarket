@@ -69,7 +69,7 @@ That's it. You can do everything on a phone if you have no laptop. Write posts i
 <ul>
   <li>Open Google Docs <strong>before</strong> load shedding starts</li>
   <li>Write your full post offline—product review, comparison, "how-to" guide</li>
-  <li>When power returns, paste it into Blogger and publish it.</li>
+  <li>When power returns, paste it into your blog and publish it.</li>
 </ul>
 
 <p><strong>Best posts to write during load shedding:</strong></p>
