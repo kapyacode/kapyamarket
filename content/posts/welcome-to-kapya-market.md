@@ -5,7 +5,7 @@ draft: false
 slug: "welcome-to-kapya-market"
 description: "New to Kapya Market? Start here for beginner-friendly guides on affiliate marketing, blogging, web hosting and building an online business in South Africa."
 tags:
-  - "Start Here"
+  - "Getting Started"
   - "Beginner Guides"
   - "Online Business South Africa"
 weight: 1
