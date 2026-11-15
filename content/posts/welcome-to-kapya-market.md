@@ -9,9 +9,15 @@ tags:
   - "Beginner Guides"
   - "Online Business South Africa"
 weight: 1
+cover:
+  image: "/images/welcome-hero.png"
+  alt: "Welcome to Kapya Market"
+  hiddenInSingle: true
 ---
 
 Welcome to Kapya Market. This site shares practical, beginner-friendly guides on affiliate marketing, blogging, web hosting and building an online business, written with readers in South Africa and across Africa in mind.
+
+![Welcome to Kapya Market: beginner-friendly guides](/images/welcome-hero.png)
 
 If you are not sure where to begin, this page will point you to the right guide in a few minutes.
 
@@ -28,10 +34,29 @@ Kapya Market is for people who want to learn how online income works, without hy
 
 Pick the path that matches you:
 
-1. **I am new and want the basics.** Read [How to Start Affiliate Marketing (Beginner Guide)](/2026/05/what-is-affiliate-marketing-complete-guide). It explains what affiliate marketing is, how it works and what to do first.
-2. **I want to know my options for earning online.** Read [How to Make Money Online in 2026](/2026/05/how-to-make-money-online-2026) for a clear look at the main methods.
-3. **I want my own blog.** Read [How to Start a Blog and Make Money in 2026](/2026/05/how-to-start-blog-make-money-2026) for the steps from idea to first post.
-4. **I already have a domain name.** Read [How to Connect a .co.za Domain to Blogger](/2026/11/how-to-connect-coza-domain-to-blogger) for a step-by-step walkthrough.
+### 1. I am new and want the basics
+
+Read [How to Start Affiliate Marketing (Beginner Guide)](/2026/05/what-is-affiliate-marketing-complete-guide). It explains what affiliate marketing is, how it works and what to do first.
+
+[![Beginner guide to affiliate marketing](/images/blog/c9208e9caa7f.jpg)](/2026/05/what-is-affiliate-marketing-complete-guide)
+
+### 2. I want to know my options for earning online
+
+Read [How to Make Money Online in 2026](/2026/05/how-to-make-money-online-2026) for a clear look at the main methods.
+
+[![How to make money online in 2026](/images/blog/3ab43c56f2cd.png)](/2026/05/how-to-make-money-online-2026)
+
+### 3. I want my own blog
+
+Read [How to Start a Blog and Make Money in 2026](/2026/05/how-to-start-blog-make-money-2026) for the steps from idea to first post.
+
+
+
+### 4. I already have a domain name
+
+Read [How to Connect a .co.za Domain to Blogger](/2026/11/how-to-connect-coza-domain-to-blogger) for a step-by-step walkthrough.
+
+[![How to connect a .co.za domain to Blogger](/images/blog/db2bc43b8218.png)](/2026/11/how-to-connect-coza-domain-to-blogger)
 
 ## What to expect from these guides
 
