@@ -7,7 +7,7 @@ description: "Contact Kapya Market with a question, suggestion or topic request.
 ---
 
 <p>Have a question or a suggestion? Send a message and we will reply by email.</p>
-<form action="https://api.web3forms.com/submit" method="POST" class="contact-form">
+<form id="contact-form" action="https://api.web3forms.com/submit" method="POST" class="contact-form">
   <input type="hidden" name="access_key" value="043502a9-5fae-4da5-8303-c76e8da1d848">
   <input type="hidden" name="subject" value="New message from Kapya Market">
   <input type="checkbox" name="botcheck" style="display:none;">
@@ -17,5 +17,16 @@ description: "Contact Kapya Market with a question, suggestion or topic request.
   <input type="email" name="email" required>
   <label>Message</label>
   <textarea name="message" rows="6" required></textarea>
+  <div class="h-captcha" data-captcha="true"></div>
   <button type="submit">Send message</button>
 </form>
+<script src="https://web3forms.com/client/script.js" async defer></script>
+<script>
+  var cf = document.getElementById('contact-form');
+  if (cf) {
+    cf.addEventListener('submit', function (e) {
+      var c = cf.querySelector('textarea[name="h-captcha-response"]');
+      if (c && !c.value) { e.preventDefault(); alert('Please tick the box to show you are human.'); }
+    });
+  }
+</script>
