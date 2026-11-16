@@ -12,10 +12,6 @@ tags:
   - "Kapya Market Guides"
   - "Blogging Equipment"
   - "How To Start Affiliate Marketing"
-cover:
-  image: "https://hostafrica.co.za/wp-content/uploads/2022/09/smiling-guy-cellphone.jpg"
-  alt: "Amazon Affiliate Marketing for Beginners 2026"
-  hiddenInSingle: true
 ---
 
 <!--Google Local Product Review Schema to Force Indexing-->
@@ -74,11 +70,7 @@ cover:
 
 <div style="margin: 20px 0px; text-align: center;">
   <a href="https://hostafrica.co.za" rel="sponsored nofollow" target="_blank">
-    <img 
-      alt="HostAfrica web hosting - Best hosting provider in South Africa" 
-      src="https://hostafrica.co.za/wp-content/uploads/2022/09/smiling-guy-cellphone.jpg" 
-      style="background: rgb(255, 255, 255); border-radius: 6px; border: 0px; box-shadow: rgba(0, 0, 0, 0.05) 0px 4px 12px; display: inline-block; height: auto; max-width: 100%; padding: 15px; width: 220px;" 
-    />
+    
   </a>
 </div>
 
