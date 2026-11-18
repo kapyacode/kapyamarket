@@ -2,7 +2,7 @@
 title: "How to Build a Website With AI in South Africa"
 date: 2026-11-03T18:53:39.785Z
 slug: "how-to-build-website-with-ai-in-south"
-url: "/2026/11/how-to-build-website-with-ai-in-south.html"
+url: "/2026/11/how-to-build-website-with-ai-in-south/"
 description: "Build a website with AI in South Africa. HostAfrica's AI builder costs R29.70 a month for 3 months, then R99. Steps, limits and who it suits."
 cover:
   image: "/images/blog/d9642a8a87dd.png"
@@ -10,7 +10,7 @@ cover:
   hiddenInSingle: true
 ---
 
-<p><em>Affiliate Disclosure: This post contains affiliate links. If you click and make a purchase, I may earn a commission at no extra cost to you. Read my full <a href="https://www.kapyamarket.co.za/p/affiliate-disclosure.html">Affiliate Disclosure</a> for more info.</em></p>
+<p><em>Affiliate Disclosure: This post contains affiliate links. If you click and make a purchase, I may earn a commission at no extra cost to you. Read my full <a href="https://www.kapyamarket.co.za/p/affiliate-disclosure/">Affiliate Disclosure</a> for more info.</em></p>
 
 <p>Not everyone wants to learn WordPress, buy a theme, and set up plugins just to get a business online. If you only need a clean, mobile-friendly site that you can edit yourself, an AI website builder is a quicker route.</p>
 

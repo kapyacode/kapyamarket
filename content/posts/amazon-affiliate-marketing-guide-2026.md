@@ -2,7 +2,7 @@
 title: "Amazon Affiliate Marketing for Beginners 2026"
 date: 2026-05-08T05:51:36.869Z
 slug: "amazon-affiliate-marketing-guide-2026"
-url: "/2026/05/amazon-affiliate-marketing-guide-2026.html"
+url: "/2026/05/amazon-affiliate-marketing-guide-2026/"
 description: "Amazon Affiliate Marketing 2026 guide for beginners. How to sign up, get approved, pick products, add links, and earn your first commission. No experi"
 tags:
   - "Affiliate Marketing"

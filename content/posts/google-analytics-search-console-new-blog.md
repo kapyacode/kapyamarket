@@ -3,7 +3,7 @@ title: "How to Set Up Google Analytics and Search Console on a New Blog"
 date: 2026-11-15T17:00:00+02:00
 draft: false
 slug: "google-analytics-search-console-new-blog"
-url: "/2026/11/google-analytics-search-console-new-blog.html"
+url: "/2026/11/google-analytics-search-console-new-blog/"
 description: "A step-by-step beginner guide to setting up Google Analytics 4 and Google Search Console on a new blog: create the accounts, add the tracking code, submit your sitemap and check your data."
 tags:
   - "Google Analytics"
@@ -66,7 +66,7 @@ Open **Reports**, then **Realtime**. On your phone, using mobile data, open your
 
 The warning "No data received" on the data stream page can take up to 48 hours to disappear, even when Realtime already works.
 
-Analytics uses cookies, so mention it in your privacy and cookie policy. If you have readers in the EU or the UK, add a consent message as well. Our own [Cookie Policy](/p/cookie-policy.html) shows one way to describe it.
+Analytics uses cookies, so mention it in your privacy and cookie policy. If you have readers in the EU or the UK, add a consent message as well. Our own [Cookie Policy](/p/cookie-policy/) shows one way to describe it.
 
 ## Step 3: Set up Google Search Console
 
@@ -111,4 +111,4 @@ In Analytics, open **Admin**, then **Product links**, then **Search Console link
 
 Look at your data once a week, not once an hour. See which posts get visitors and which searches bring them, and write more about those topics.
 
-If you are moving a blog to a new platform, our guide on [how to move from Blogger to Hugo and Cloudflare](/2026/11/move-blogger-to-hugo-cloudflare-free.html) explains how to keep your Search Console access and your post addresses. Questions about setting this up? Use the [contact page](/p/contact-us.html).
+If you are moving a blog to a new platform, our guide on [how to move from Blogger to Hugo and Cloudflare](/2026/11/move-blogger-to-hugo-cloudflare-free/) explains how to keep your Search Console access and your post addresses. Questions about setting this up? Use the [contact page](/p/contact-us/).

@@ -3,7 +3,7 @@ title: "How to Move From Blogger to Hugo and Cloudflare (Free Hosting Guide)"
 date: 2026-11-15T12:00:00+02:00
 draft: false
 slug: "move-blogger-to-hugo-cloudflare-free"
-url: "/2026/11/move-blogger-to-hugo-cloudflare-free.html"
+url: "/2026/11/move-blogger-to-hugo-cloudflare-free/"
 description: "A beginner-friendly walkthrough for moving a Blogger blog to Hugo and free Cloudflare hosting, keeping your custom domain and your old post addresses."
 tags:
   - "Blogger"
@@ -188,6 +188,6 @@ To send the bare domain to `www`, add a proxied `A` record named `@` with the ad
 
 ## Is it worth it?
 
-For a small blog, a Hugo site on Cloudflare is fast, free to host and fully under your control. The price is that you work with files and commands instead of a visual editor. If you only want to connect a custom domain to your existing Blogger blog, read our guide on [how to connect a .co.za domain to Blogger](/2026/11/how-to-connect-coza-domain-to-blogger.html) instead.
+For a small blog, a Hugo site on Cloudflare is fast, free to host and fully under your control. The price is that you work with files and commands instead of a visual editor. If you only want to connect a custom domain to your existing Blogger blog, read our guide on [how to connect a .co.za domain to Blogger](/2026/11/how-to-connect-coza-domain-to-blogger/) instead.
 
-Questions about moving your own blog? Use the [contact page](/p/contact-us.html) and tell us where you got stuck.
+Questions about moving your own blog? Use the [contact page](/p/contact-us/) and tell us where you got stuck.

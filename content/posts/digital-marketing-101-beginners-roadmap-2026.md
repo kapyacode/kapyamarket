@@ -2,7 +2,7 @@
 title: "Digital Marketing 101: Beginner's Roadmap for 2026"
 date: 2026-05-28T06:14:17.652Z
 slug: "digital-marketing-101-beginners-roadmap-2026"
-url: "/2026/05/digital-marketing-101-beginners-roadmap-2026.html"
+url: "/2026/05/digital-marketing-101-beginners-roadmap-2026/"
 description: "Learn digital marketing from scratch in 2026. This beginner's roadmap covers SEO, content marketing, social media, email, and affiliate marketing — wi"
 tags:
   - "Digital Marketing"
@@ -55,7 +55,7 @@ tags:
      ════════════════════════════════════════════════════════════════ -->
 
 <div class="disclosure">
-<em><strong>Affiliate Disclosure:</strong> This post contains affiliate links. If you click and make a purchase, I may earn a commission at no extra cost to you. <a href="https://www.kapyamarket.co.za/p/affiliate-disclosure.html">Read my full Affiliate Disclosure</a> for more info.</em>
+<em><strong>Affiliate Disclosure:</strong> This post contains affiliate links. If you click and make a purchase, I may earn a commission at no extra cost to you. <a href="https://www.kapyamarket.co.za/p/affiliate-disclosure/">Read my full Affiliate Disclosure</a> for more info.</em>
 </div>
 
 <hr>
@@ -219,7 +219,7 @@ tags:
 </tbody>
 </table>
 
-<p>Want the full breakdown? Read: <a href="https://www.kapyamarket.co.za/2026/05/what-is-affiliate-marketing-complete-guide.html">What Is Affiliate Marketing? Beginner Guide 2026</a></p>
+<p>Want the full breakdown? Read: <a href="https://www.kapyamarket.co.za/2026/05/what-is-affiliate-marketing-complete-guide/">What Is Affiliate Marketing? Beginner Guide 2026</a></p>
 
 <hr>
 
@@ -349,7 +349,7 @@ tags:
 <p>But you have to start somewhere. Here's what to do in the next 24 hours:</p>
 
 <ol>
-<li><strong>If you don't have a blog yet:</strong> Start here → <a href="https://www.kapyamarket.co.za/2026/05/how-to-start-blog-make-money-2026.html">How to Start a Blog and Make Money in 2026</a>. Use <a href="https://my.hostafrica.com/aff.php?aff=3166" rel="sponsored nofollow">HostAfrica</a> for SA hosting (R49/month, pay by EFT) or <a href="https://www.greengeeks.com/track/kapyamarket" rel="sponsored nofollow">GreenGeeks</a> for global hosting ($2.95/month).</li>
+<li><strong>If you don't have a blog yet:</strong> Start here → <a href="https://www.kapyamarket.co.za/2026/05/how-to-start-blog-make-money-2026/">How to Start a Blog and Make Money in 2026</a>. Use <a href="https://my.hostafrica.com/aff.php?aff=3166" rel="sponsored nofollow">HostAfrica</a> for SA hosting (R49/month, pay by EFT) or <a href="https://www.greengeeks.com/track/kapyamarket" rel="sponsored nofollow">GreenGeeks</a> for global hosting ($2.95/month).</li>
 <li><strong>If you have a blog:</strong> Sign up for Google Search Console today. Find out which posts are getting impressions and optimise them first.</li>
 <li><strong>If you're ready to monetise:</strong> Join the <a href="https://www.greengeeks.com/track/kapyamarket" rel="sponsored nofollow">GreenGeeks affiliate program</a> — $65 per sale, global audience, 30-day cookie window.</li>
 </ol>
@@ -362,11 +362,11 @@ tags:
 
 <h2>Related Posts on Kapya Market</h2>
 <ul>
-<li><a href="https://www.kapyamarket.co.za/2026/05/what-is-affiliate-marketing-complete-guide.html">What Is Affiliate Marketing? Beginner Guide 2026</a></li>
-<li><a href="https://www.kapyamarket.co.za/2026/05/how-to-start-blog-make-money-2026.html">How to Start a Blog and Make Money in 2026</a></li>
-<li><a href="https://www.kapyamarket.co.za/2026/05/choose-first-affiliate-marketing-niche.html">How to Choose Your First Affiliate Niche 2026</a></li>
-<li><a href="https://www.kapyamarket.co.za/2026/05/best-ai-tools-make-money-online-usa-2026.html">7 Best AI Tools to Make Money Online 2026</a></li>
-<li><a href="https://www.kapyamarket.co.za/2026/05/how-to-make-money-online-2026.html">How to Make Money Online in 2026: 7 Real Methods</a></li>
+<li><a href="https://www.kapyamarket.co.za/2026/05/what-is-affiliate-marketing-complete-guide/">What Is Affiliate Marketing? Beginner Guide 2026</a></li>
+<li><a href="https://www.kapyamarket.co.za/2026/05/how-to-start-blog-make-money-2026/">How to Start a Blog and Make Money in 2026</a></li>
+<li><a href="https://www.kapyamarket.co.za/2026/05/choose-first-affiliate-marketing-niche/">How to Choose Your First Affiliate Niche 2026</a></li>
+<li><a href="https://www.kapyamarket.co.za/2026/05/best-ai-tools-make-money-online-usa-2026/">7 Best AI Tools to Make Money Online 2026</a></li>
+<li><a href="https://www.kapyamarket.co.za/2026/05/how-to-make-money-online-2026/">How to Make Money Online in 2026: 7 Real Methods</a></li>
 </ul>
 
 <hr>

@@ -2,7 +2,7 @@
 title: "5 Digital Marketing Mistakes SA Beginners Make"
 date: 2026-05-08T22:29:08.636Z
 slug: "5-common-mistakes-digital-marketers-south-africa"
-url: "/2026/05/5-common-mistakes-digital-marketers-south-africa.html"
+url: "/2026/05/5-common-mistakes-digital-marketers-south-africa/"
 description: "Are you starting your digital marketing journey in South Africa? Avoid these 5 common mistakes to save time and money. Learn how to launch your busine"
 tags:
   - "Affiliate Marketing"
@@ -19,7 +19,7 @@ cover:
 
 <h1>5 Digital Marketing Mistakes SA Beginners Make</h1>
 
-<p><em><strong>Affiliate Disclosure:</strong> This post contains affiliate links. If you click and make a purchase, I may earn a commission at no extra cost to you. <a href="https://www.kapyamarket.co.za/p/affiliate-disclosure.html">Read my full Affiliate Disclosure</a> for more info.</em></p>
+<p><em><strong>Affiliate Disclosure:</strong> This post contains affiliate links. If you click and make a purchase, I may earn a commission at no extra cost to you. <a href="https://www.kapyamarket.co.za/p/affiliate-disclosure/">Read my full Affiliate Disclosure</a> for more info.</em></p>
 
 <hr/>
 
@@ -44,7 +44,7 @@ cover:
 <li><strong>Good:</strong> "I help SA moms start affiliate blogs for R0."</li>
 </ul>
 
-<p>My site targets beginners in SA who want to do <a href="https://www.kapyamarket.co.za/2026/05/what-is-affiliate-marketing-complete-guide.html">affiliate marketing</a>. Specific = cheaper ads, higher conversions.</p>
+<p>My site targets beginners in SA who want to do <a href="https://www.kapyamarket.co.za/2026/05/what-is-affiliate-marketing-complete-guide/">affiliate marketing</a>. Specific = cheaper ads, higher conversions.</p>
 
 <hr/>
 
@@ -103,7 +103,7 @@ cover:
 </tbody>
 </table>
 
-<p>Start with Amazon. It's easiest. Read my full <a href="https://www.kapyamarket.co.za/2026/05/amazon-affiliate-marketing-guide-2026.html">affiliate marketing guide for beginners</a> to join Amazon Associates step by step.</p>
+<p>Start with Amazon. It's easiest. Read my full <a href="https://www.kapyamarket.co.za/2026/05/amazon-affiliate-marketing-guide-2026/">affiliate marketing guide for beginners</a> to join Amazon Associates step by step.</p>
 
 <hr/>
 
@@ -149,11 +149,11 @@ cover:
 <h2>Related Posts on Kapya Market</h2>
 
 <ul>
-<li><a href="https://www.kapyamarket.co.za/2026/05/what-is-affiliate-marketing-complete-guide.html">What Is Affiliate Marketing? Beginner Guide 2026</a></li>
-<li><a href="https://www.kapyamarket.co.za/2026/05/amazon-affiliate-marketing-guide-2026.html">Amazon Affiliate Marketing for Beginners 2026</a></li>
-<li><a href="https://www.kapyamarket.co.za/2026/05/best-hosting-south-africa.html">Best Web Hosting South Africa 2026: HostAfrica</a></li>
-<li><a href="https://www.kapyamarket.co.za/2026/05/logitech-c920-webcam-review.html">Logitech C920 Review: Best Webcam for Bloggers?</a></li>
-<li><a href="https://www.kapyamarket.co.za/2026/05/how-to-start-blog-make-money-2026.html">How to Start a Blog and Make Money in 2026</a></li>
+<li><a href="https://www.kapyamarket.co.za/2026/05/what-is-affiliate-marketing-complete-guide/">What Is Affiliate Marketing? Beginner Guide 2026</a></li>
+<li><a href="https://www.kapyamarket.co.za/2026/05/amazon-affiliate-marketing-guide-2026/">Amazon Affiliate Marketing for Beginners 2026</a></li>
+<li><a href="https://www.kapyamarket.co.za/2026/05/best-hosting-south-africa/">Best Web Hosting South Africa 2026: HostAfrica</a></li>
+<li><a href="https://www.kapyamarket.co.za/2026/05/logitech-c920-webcam-review/">Logitech C920 Review: Best Webcam for Bloggers?</a></li>
+<li><a href="https://www.kapyamarket.co.za/2026/05/how-to-start-blog-make-money-2026/">How to Start a Blog and Make Money in 2026</a></li>
 </ul>
 
 <hr/>

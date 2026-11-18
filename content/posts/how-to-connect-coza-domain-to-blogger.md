@@ -2,7 +2,7 @@
 title: "How to Connect a .co.za Domain to Blogger (Step by Step)"
 date: 2026-11-06T13:01:38Z
 slug: "how-to-connect-coza-domain-to-blogger"
-url: "/2026/11/how-to-connect-coza-domain-to-blogger.html"
+url: "/2026/11/how-to-connect-coza-domain-to-blogger/"
 description: "Learn how to point your .co.za domain to Blogger using CNAME and A records. Simple steps for beginners, plus fixes for common errors."
 cover:
   image: "/images/blog/db2bc43b8218.png"
@@ -19,7 +19,7 @@ IMAGES: The 4 images are embedded inside this code, so no upload is needed.
 If Blogger does not show them after you paste, use the upload method instead.
 ===== PASTE EVERYTHING BELOW THIS LINE INTO BLOGGER'S HTML VIEW ===== -->
 
-<p><em>Affiliate Disclosure: This post contains affiliate links. If you buy through them, I may earn a commission at no extra cost to you. <a href="https://www.kapyamarket.co.za/p/affiliate-disclosure.html">Read my full Affiliate Disclosure</a> for more info.</em></p>
+<p><em>Affiliate Disclosure: This post contains affiliate links. If you buy through them, I may earn a commission at no extra cost to you. <a href="https://www.kapyamarket.co.za/p/affiliate-disclosure/">Read my full Affiliate Disclosure</a> for more info.</em></p>
 
 <p style="text-align: center;"><img alt="How to connect a .co.za domain to Blogger, step-by-step guide for beginners" height="630" src="/images/blog/db2bc43b8218.png" style="border-radius: 8px; height: auto; max-width: 100%;" width="1200" /></p>
 
@@ -34,7 +34,7 @@ If Blogger does not show them after you paste, use the upload method instead.
   <li>Login details for the company where you registered the domain (your registrar)</li>
 </ul>
 
-<p><strong>Don’t have a domain yet?</strong> You can <a href="https://hostafrica.co.za/domains/tld/co-za?aff=3166" rel="sponsored noopener" target="_blank">register a .co.za domain with HostAfrica</a>, a South African company that bills in rands. If you want to compare options first, read my guide on <a href="https://www.kapyamarket.co.za/2026/11/how-to-register-coza-domain-in-south.html">how to register a .co.za domain</a>, including what it costs at renewal.</p>
+<p><strong>Don’t have a domain yet?</strong> You can <a href="https://hostafrica.co.za/domains/tld/co-za?aff=3166" rel="sponsored noopener" target="_blank">register a .co.za domain with HostAfrica</a>, a South African company that bills in rands. If you want to compare options first, read my guide on <a href="https://www.kapyamarket.co.za/2026/11/how-to-register-coza-domain-in-south/">how to register a .co.za domain</a>, including what it costs at renewal.</p>
 
 <h2>How it works in plain language</h2>
 <p>Your domain is like a street address. DNS records are the directions that tell the internet where that address leads, and your registrar stores them. You will add a few records that say: “When someone types my domain, send them to Blogger.”</p>
@@ -131,7 +131,7 @@ If Blogger does not show them after you paste, use the upload method instead.
 
 <h2>Read next</h2>
 <ul>
-  <li><a href="https://www.kapyamarket.co.za/2026/11/how-to-register-coza-domain-in-south.html">How to Register a .co.za Domain in South Africa</a></li>
-  <li><a href="https://www.kapyamarket.co.za/2026/11/how-to-build-website-with-ai-in-south.html">How to Build a Website With AI in South Africa</a></li>
-  <li><a href="https://www.kapyamarket.co.za/2026/11/cheap-web-hosting-in-south-africa-2027.html">Cheap Web Hosting in South Africa 2027</a></li>
+  <li><a href="https://www.kapyamarket.co.za/2026/11/how-to-register-coza-domain-in-south/">How to Register a .co.za Domain in South Africa</a></li>
+  <li><a href="https://www.kapyamarket.co.za/2026/11/how-to-build-website-with-ai-in-south/">How to Build a Website With AI in South Africa</a></li>
+  <li><a href="https://www.kapyamarket.co.za/2026/11/cheap-web-hosting-in-south-africa-2027/">Cheap Web Hosting in South Africa 2027</a></li>
 </ul>
