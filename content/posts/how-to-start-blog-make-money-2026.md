@@ -2,7 +2,7 @@
 title: "How to Start a Blog and Make Money in 2026"
 date: 2026-05-11T15:02:23.875Z
 slug: "how-to-start-blog-make-money-2026"
-url: "/2026/05/how-to-start-blog-make-money-2026.html"
+url: "/2026/05/how-to-start-blog-make-money-2026/"
 description: "How to start a blog in 2026: Pick a niche, set up hosting, index in Google, get traffic with SEO, connect AdSense & affiliate links. Real steps to fir"
 tags:
   - "Start a Blog 2026"
@@ -13,7 +13,7 @@ tags:
   - "Blogger Tutorial"
 ---
 
-<p><em><strong>Affiliate Disclosure:</strong> This post contains affiliate links. If you click and make a purchase, I may earn a commission at no extra cost to you. <a href="https://www.kapyamarket.co.za/p/affiliate-disclosure.html">Read my full Affiliate Disclosure</a> for more info.</em></p>
+<p><em><strong>Affiliate Disclosure:</strong> This post contains affiliate links. If you click and make a purchase, I may earn a commission at no extra cost to you. <a href="https://www.kapyamarket.co.za/p/affiliate-disclosure/">Read my full Affiliate Disclosure</a> for more info.</em></p>
 
 <hr />
 
@@ -35,7 +35,7 @@ tags:
 
 <p>I picked "web hosting + blogging tools" because 1 sale = $65–$150. Compare that to Amazon's $3 webcam commission.</p>
 
-<p><strong>Do this now:</strong> Read my full guide → <a href="https://www.kapyamarket.co.za/2026/05/choose-first-affiliate-marketing-niche.html">How to Choose an Affiliate Niche in 2026</a></p>
+<p><strong>Do this now:</strong> Read my full guide → <a href="https://www.kapyamarket.co.za/2026/05/choose-first-affiliate-marketing-niche/">How to Choose an Affiliate Niche in 2026</a></p>
 
 <hr />
 
@@ -65,7 +65,7 @@ tags:
   </tbody>
 </table>
 
-<p><strong>Don't know which?</strong> See my comparison → <a href="https://www.kapyamarket.co.za/2026/05/greengeeks-vs-hostinger-2026.html">GreenGeeks vs Hostinger 2026</a> or <a href="https://www.kapyamarket.co.za/2026/05/best-hosting-south-africa.html">Best Web Hosting South Africa</a></p>
+<p><strong>Don't know which?</strong> See my comparison → <a href="https://www.kapyamarket.co.za/2026/05/greengeeks-vs-hostinger-2026/">GreenGeeks vs Hostinger 2026</a> or <a href="https://www.kapyamarket.co.za/2026/05/best-hosting-south-africa/">Best Web Hosting South Africa</a></p>
 
 <p><strong>Setup:</strong> Buy hosting → 1-click install WordPress → Pick free Astra theme. Done. If you're on Blogger, migrate now. AdSense approval is much harder on Blogspot subdomains.</p>
 
@@ -77,14 +77,14 @@ tags:
 
 <p><strong>My first 5 posts that got me traffic:</strong></p>
 <ol>
-  <li>"Best X for Y" → <a href="https://www.kapyamarket.co.za/2026/05/best-hosting-south-africa.html">Best Web Hosting South Africa</a></li>
-  <li>"X vs Y" → <a href="https://www.kapyamarket.co.za/2026/05/greengeeks-vs-hostinger-2026.html">GreenGeeks vs Hostinger</a></li>
-  <li>"How to X" → <a href="https://www.kapyamarket.co.za/2026/05/choose-first-affiliate-marketing-niche.html">How to Choose a Niche</a></li>
-  <li>"Review" → <a href="https://www.kapyamarket.co.za/2026/05/greengeeks-review-2026.html">GreenGeeks Review</a></li>
-  <li>"Tutorial" → <a href="https://www.kapyamarket.co.za/2026/05/what-is-affiliate-marketing-complete-guide.html">How to Start Affiliate Marketing</a></li>
+  <li>"Best X for Y" → <a href="https://www.kapyamarket.co.za/2026/05/best-hosting-south-africa/">Best Web Hosting South Africa</a></li>
+  <li>"X vs Y" → <a href="https://www.kapyamarket.co.za/2026/05/greengeeks-vs-hostinger-2026/">GreenGeeks vs Hostinger</a></li>
+  <li>"How to X" → <a href="https://www.kapyamarket.co.za/2026/05/choose-first-affiliate-marketing-niche/">How to Choose a Niche</a></li>
+  <li>"Review" → <a href="https://www.kapyamarket.co.za/2026/05/greengeeks-review-2026/">GreenGeeks Review</a></li>
+  <li>"Tutorial" → <a href="https://www.kapyamarket.co.za/2026/05/what-is-affiliate-marketing-complete-guide/">How to Start Affiliate Marketing</a></li>
 </ol>
 
-<p><strong>Template for every post:</strong> Problem → Agitate → Solution → Proof → CTA. See how I wrote <a href="https://www.kapyamarket.co.za/2026/05/5-common-mistakes-digital-marketers-south-africa.html">affiliate reviews that convert</a>.</p>
+<p><strong>Template for every post:</strong> Problem → Agitate → Solution → Proof → CTA. See how I wrote <a href="https://www.kapyamarket.co.za/2026/05/5-common-mistakes-digital-marketers-south-africa/">affiliate reviews that convert</a>.</p>
 
 <hr />
 
@@ -139,7 +139,7 @@ tags:
 <ol>
   <li><a href="https://www.greengeeks.com/track/kapyamarket" rel="sponsored nofollow" target="_blank">GreenGeeks</a> — $65/sale, 30-day cookie, best for global audiences</li>
   <li><a href="https://my.hostafrica.com/aff.php?aff=3166" rel="sponsored nofollow" target="_blank">HostAfrica</a>—ZAR commissions, best for South African audiences</li>
-  <li><a href="https://affiliate-program.amazon.com/" rel="nofollow" target="_blank">Amazon Associates</a> — 1–10%, great for gear reviews. Full guide → <a href="https://www.kapyamarket.co.za/2026/05/amazon-affiliate-marketing-guide-2026.html">Amazon Affiliate Marketing 2026</a></li>
+  <li><a href="https://affiliate-program.amazon.com/" rel="nofollow" target="_blank">Amazon Associates</a> — 1–10%, great for gear reviews. Full guide → <a href="https://www.kapyamarket.co.za/2026/05/amazon-affiliate-marketing-guide-2026/">Amazon Affiliate Marketing 2026</a></li>
 </ol>
 
 <p><strong>Rule:</strong> Only promote what you use. Readers and Google can both tell if you're fake.</p>
@@ -200,7 +200,7 @@ tags:
 
 <p>Start today. In 90 days you'll thank yourself.</p>
 
-<p><strong>Next step:</strong> Already have a blog? Learn <a href="https://www.kapyamarket.co.za/2026/05/what-is-affiliate-marketing-complete-guide.html">how to write affiliate reviews that rank</a>.</p>
+<p><strong>Next step:</strong> Already have a blog? Learn <a href="https://www.kapyamarket.co.za/2026/05/what-is-affiliate-marketing-complete-guide/">how to write affiliate reviews that rank</a>.</p>
 
 <hr />
 <p><em>Disclosure: Kapya Market participates in the Amazon Associates Program, the HostAfrica Affiliate Program, and the GreenGeeks Affiliate Program. As an affiliate, I earn commissions from qualifying purchases at no extra cost to you. I only recommend tools I personally use and have tested.</em></p>

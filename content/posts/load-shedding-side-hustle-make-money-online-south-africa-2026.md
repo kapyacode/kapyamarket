@@ -2,7 +2,7 @@
 title: "Load Shedding Side Hustle: Make Money Online SA"
 date: 2026-05-12T20:15:33.817Z
 slug: "load-shedding-side-hustle-make-money-online-south-africa-2026"
-url: "/2026/05/load-shedding-side-hustle-make-money-online-south-africa-2026.html"
+url: "/2026/05/load-shedding-side-hustle-make-money-online-south-africa-2026/"
 description: "Eskom cutting your power? Turn load shedding into income. This step-by-step guide shows South Africans how to make money online during outages in 2026"
 tags:
   - "Affiliate Marketing 2026"
@@ -19,7 +19,7 @@ cover:
   hiddenInSingle: true
 ---
 
-<p><em><strong>Affiliate Disclosure:</strong> This post contains affiliate links. If you click and make a purchase, I may earn a commission at no extra cost to you. <a href="https://www.kapyamarket.co.za/p/affiliate-disclosure.html">Read my full Affiliate Disclosure</a> for more info.</em></p>
+<p><em><strong>Affiliate Disclosure:</strong> This post contains affiliate links. If you click and make a purchase, I may earn a commission at no extra cost to you. <a href="https://www.kapyamarket.co.za/p/affiliate-disclosure/">Read my full Affiliate Disclosure</a> for more info.</em></p>
 
 <hr />
 
@@ -82,7 +82,7 @@ That's it. You can do everything on a phone if you have no laptop. Write posts i
 
 <p>You don't need internet to write. You need internet to publish. Load shedding can't stop your writing schedule.</p>
 
-<p>Need help picking what to write about? Read: <a href="https://www.kapyamarket.co.za/2026/05/choose-first-affiliate-marketing-niche.html">How to Choose Your First Affiliate Marketing Niche</a></p>
+<p>Need help picking what to write about? Read: <a href="https://www.kapyamarket.co.za/2026/05/choose-first-affiliate-marketing-niche/">How to Choose Your First Affiliate Marketing Niche</a></p>
 
 <hr />
 
@@ -101,7 +101,7 @@ That's it. You can do everything on a phone if you have no laptop. Write posts i
   <li>Search: "make money online South Africa" or "load shedding work from home."</li>
   <li>Find questions with 2,000+ views but fewer than 10 answers</li>
   <li>Write a 3–5 paragraph answer with real, helpful information</li>
-  <li>At the end, add one link to your relevant <a href="https://www.kapyamarket.co.za/2026/05/what-is-affiliate-marketing-complete-guide.html">blog post</a></li>
+  <li>At the end, add one link to your relevant <a href="https://www.kapyamarket.co.za/2026/05/what-is-affiliate-marketing-complete-guide/">blog post</a></li>
 </ol>
 
 <p><strong>Rules:</strong> Only 1 link per answer. No spamming. Be genuinely helpful first. One good Quora answer can send traffic for years.</p>
@@ -191,7 +191,7 @@ That's it. You can do everything on a phone if you have no laptop. Write posts i
 </a>
 
 <ol>
-  <li><strong>If you don't have a blog yet:</strong> Start here → <a href="https://www.kapyamarket.co.za/2026/05/how-to-start-blog-make-money-2026.html">How to Start a Blog and Make Money 2026</a>. Use <a href="https://my.hostafrica.com/aff.php?aff=3166" rel="sponsored nofollow" target="_blank">HostAfrica</a> for SA hosting — R49/month, pay by EFT.</li>
+  <li><strong>If you don't have a blog yet:</strong> Start here → <a href="https://www.kapyamarket.co.za/2026/05/how-to-start-blog-make-money-2026/">How to Start a Blog and Make Money 2026</a>. Use <a href="https://my.hostafrica.com/aff.php?aff=3166" rel="sponsored nofollow" target="_blank">HostAfrica</a> for SA hosting — R49/month, pay by EFT.</li>
   <li><strong>If you have a blog:</strong> Write one load-shedding post this week. Topic: "Best [product you own] for load shedding South Africa." Add your Amazon or Takealot affiliate link.</li>
   <li><strong>If you want to earn from hosting referrals:</strong> Sign up for the <a href="https://www.greengeeks.com/track/kapyamarket" rel="sponsored nofollow" target="_blank">GreenGeeks affiliate program</a> — $65 per sale, no cap.</li>
 </ol>
@@ -205,11 +205,11 @@ That's it. You can do everything on a phone if you have no laptop. Write posts i
 <h2>Related Posts on Kapya Market</h2>
 
 <ul>
-  <li><a href="https://www.kapyamarket.co.za/2026/05/what-is-affiliate-marketing-complete-guide.html">What Is Affiliate Marketing? Beginner Guide 2026</a></li>
-  <li><a href="https://www.kapyamarket.co.za/2026/05/how-to-start-blog-make-money-2026.html">How to Start a Blog and Make Money in 2026</a></li>
-  <li><a href="https://www.kapyamarket.co.za/2026/05/choose-first-affiliate-marketing-niche.html">How to Choose Your First Affiliate Niche 2026</a></li>
-  <li><a href="https://www.kapyamarket.co.za/2026/05/how-to-make-money-online-2026.html">How to Make Money Online in 2026: 7 Real Methods</a></li>
-  <li><a href="https://www.kapyamarket.co.za/2026/05/best-hosting-south-africa.html">Best Web Hosting South Africa 2026: HostAfrica</a></li>
+  <li><a href="https://www.kapyamarket.co.za/2026/05/what-is-affiliate-marketing-complete-guide/">What Is Affiliate Marketing? Beginner Guide 2026</a></li>
+  <li><a href="https://www.kapyamarket.co.za/2026/05/how-to-start-blog-make-money-2026/">How to Start a Blog and Make Money in 2026</a></li>
+  <li><a href="https://www.kapyamarket.co.za/2026/05/choose-first-affiliate-marketing-niche/">How to Choose Your First Affiliate Niche 2026</a></li>
+  <li><a href="https://www.kapyamarket.co.za/2026/05/how-to-make-money-online-2026/">How to Make Money Online in 2026: 7 Real Methods</a></li>
+  <li><a href="https://www.kapyamarket.co.za/2026/05/best-hosting-south-africa/">Best Web Hosting South Africa 2026: HostAfrica</a></li>
 </ul>
 
 <hr />

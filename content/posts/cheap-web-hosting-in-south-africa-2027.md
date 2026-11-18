@@ -2,7 +2,7 @@
 title: "Cheap Web Hosting in South Africa 2027"
 date: 2026-11-03T12:57:27.320Z
 slug: "cheap-web-hosting-in-south-africa-2027"
-url: "/2026/11/cheap-web-hosting-in-south-africa-2027.html"
+url: "/2026/11/cheap-web-hosting-in-south-africa-2027/"
 description: "HostAfrica web hosting from R99 a month in South Africa. Plans, prices, a free .co.za domain, and how to launch a WordPress site."
 cover:
   image: "/images/blog/941dafac8fc1.png"
@@ -10,7 +10,7 @@ cover:
   hiddenInSingle: true
 ---
 
-<p><em>Affiliate Disclosure: This post contains affiliate links. If you click and make a purchase, I may earn a commission at no extra cost to you. Read my full <a href="https://www.kapyamarket.co.za/p/affiliate-disclosure.html">Affiliate Disclosure</a> for more info.</em></p>
+<p><em>Affiliate Disclosure: This post contains affiliate links. If you click and make a purchase, I may earn a commission at no extra cost to you. Read my full <a href="https://www.kapyamarket.co.za/p/affiliate-disclosure/">Affiliate Disclosure</a> for more info.</em></p>
 
 <p>Most hosting guides quote prices in dollars, then leave you to guess what the card charge will look like once the exchange rate moves. If you are building a blog or a small business site in South Africa, rands and a local domain make planning much easier.</p>
 

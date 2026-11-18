@@ -2,7 +2,7 @@
 title: "How to Start an Online Store in 2026 (Shopify Guide)"
 date: 2026-06-07T19:05:52.426Z
 slug: "shopify-start-online-store-capcut-ai-2026"
-url: "/2026/06/shopify-start-online-store-capcut-ai-2026.html"
+url: "/2026/06/shopify-start-online-store-capcut-ai-2026/"
 description: "Learn how to start an online store in 2026 using Shopify. Step-by-step beginner guide to build an ecommerce business and make money online."
 tags:
   - "Shopify"

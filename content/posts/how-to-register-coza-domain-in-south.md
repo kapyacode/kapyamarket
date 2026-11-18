@@ -2,7 +2,7 @@
 title: "How to Register a .co.za Domain in South Africa "
 date: 2026-11-03T18:50:46.680Z
 slug: "how-to-register-coza-domain-in-south"
-url: "/2026/11/how-to-register-coza-domain-in-south.html"
+url: "/2026/11/how-to-register-coza-domain-in-south/"
 description: "Register a .co.za domain in South Africa from R49 a year. HostAfrica domain prices, renewal costs, and a simple three-step guide."
 cover:
   image: "/images/blog/bc29d5ae181a.png"
@@ -10,7 +10,7 @@ cover:
   hiddenInSingle: true
 ---
 
-<p><em>Affiliate Disclosure: This post contains affiliate links. If you click and make a purchase, I may earn a commission at no extra cost to you. Read my full <a href="https://www.kapyamarket.co.za/p/affiliate-disclosure.html">Affiliate Disclosure</a> for more info.</em></p>
+<p><em>Affiliate Disclosure: This post contains affiliate links. If you click and make a purchase, I may earn a commission at no extra cost to you. Read my full <a href="https://www.kapyamarket.co.za/p/affiliate-disclosure/">Affiliate Disclosure</a> for more info.</em></p>
 
 <p>A domain name is your website’s address, like kapyamarket.co.za. Before you build anything, you need one that is easy to type, easy to remember, and yours for as long as you want it.</p>
 

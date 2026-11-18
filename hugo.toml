@@ -4,8 +4,8 @@ title = "Kapya Market"
 theme = "PaperMod"
 
 [permalinks.page]
-posts = "/:year/:month/:slug.html"
-pages = "/p/:slug.html"
+posts = "/:year/:month/:slug/"
+pages = "/p/:slug/"
 
 [outputs]
 home = ["HTML", "RSS"]
@@ -31,17 +31,17 @@ weight = 1
 
 [[menu.main]]
 name = "Start Here"
-url = "/p/start-here.html"
+url = "/p/start-here/"
 weight = 2
 
 [[menu.main]]
 name = "About"
-url = "/p/about.html"
+url = "/p/about/"
 weight = 3
 
 [[menu.main]]
 name = "Contact"
-url = "/p/contact-us.html"
+url = "/p/contact-us/"
 weight = 4
 
 [security]
@@ -49,7 +49,7 @@ weight = 4
 
 [params.homeInfoParams]
 Title = "Welcome to Kapya Market"
-Content = '<p class="hero-tag">Practical guides on affiliate marketing, blogging and building an online business in South Africa.</p><p class="hero-actions"><a class="hero-btn hero-btn-main" href="/p/start-here.html">Start here</a> <a class="hero-btn hero-btn-alt" href="/p/about.html">About us</a></p>'
+Content = '<p class="hero-tag">Practical guides on affiliate marketing, blogging and building an online business in South Africa.</p><p class="hero-actions"><a class="hero-btn hero-btn-main" href="/p/start-here/">Start here</a> <a class="hero-btn hero-btn-alt" href="/p/about/">About us</a></p>'
 
 [params.label]
 text = "Kapya Market"
