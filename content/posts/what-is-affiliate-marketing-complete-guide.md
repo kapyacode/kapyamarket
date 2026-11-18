@@ -26,7 +26,7 @@ weight: 1
 
 <img src="/images/blog/c9208e9caa7f.jpg" alt="Person learning affiliate marketing on a laptop in 2026" style="max-width:100%;height:auto;"/>
 
-<p>Want to make money online but have no product? Affiliate marketing is how 80% of bloggers start. I made my first $47 in week 3 using just this method.</p>
+<p>Want to make money online but have no product? Affiliate marketing lets you recommend products you trust and earn a commission when someone buys through your link. It takes time to build an audience, so treat it as a slow start rather than quick money.</p>
 
 <p><strong>Quick answer:</strong> Affiliate marketing is promoting other companies' products and earning a commission when someone buys through your link. You can start for free in 2026 with just a blog and 1 social account.</p>
 

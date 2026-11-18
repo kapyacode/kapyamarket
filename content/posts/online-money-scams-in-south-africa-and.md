@@ -3,7 +3,8 @@ title: "Register Your Domain Name with HostAfrica: Start Your Online Presence To
 date: 2026-11-07T18:30:26.631Z
 slug: "online-money-scams-in-south-africa-and"
 url: "/2026/11/online-money-scams-in-south-africa-and/"
-description: "Learn how to register a domain name with HostAfrica in minutes. Find .co.za, .com and other domains, start your website, and build your online presenc"
+description: "Learn how to register a .co.za, .com or .africa domain with HostAfrica, plus tips for choosing a short, memorable name for your website or blog."
+summary: "Learn how to register a .co.za, .com or .africa domain with HostAfrica, plus tips for choosing a short, memorable name."
 tags:
   - "HostAfrica"
   - "Domain Registration"
