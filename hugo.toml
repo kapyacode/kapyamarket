@@ -53,6 +53,8 @@ Content = '<p class="hero-tag">Practical guides on affiliate marketing, blogging
 
 [params.label]
 text = "Kapya Market"
+icon = "/kapya-logo.svg"
+iconHeight = 34
 
 [params.assets]
   favicon = "/favicon.ico"
