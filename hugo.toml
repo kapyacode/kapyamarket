@@ -8,7 +8,7 @@ posts = "/:year/:month/:slug/"
 pages = "/p/:slug/"
 
 [outputs]
-home = ["HTML", "RSS"]
+home = ["HTML", "RSS", "JSON"]
 
 [markup.goldmark.renderer]
 unsafe = true
@@ -25,9 +25,9 @@ ShowPostNavLinks = true
 ShowToc = true
 
 [[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+name = "Search"
+url = "/search/"
+weight = 5
 
 [[menu.main]]
 name = "Start Here"
