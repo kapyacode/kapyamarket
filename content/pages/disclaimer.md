@@ -1,7 +1,8 @@
 ---
-title: "Disclaimer"
+title: "Disclaimer and Affiliate Disclosure"
 date: 2026-11-24
 description: "Affiliate disclosure, advertising notice and general disclaimer for Kapya Market."
+aliases: ["/p/affiliate-disclosure/"]
 draft: false
 ---
 
@@ -39,4 +40,4 @@ You use this site and act on its information at your own risk. To the fullest ex
 
 ## Questions
 
-If you have a question about this disclaimer, please use our [contact page](/p/contact-us/).
+If you have a question about this page, please use our [contact page](/p/contact-us/).
