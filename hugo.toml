@@ -25,9 +25,9 @@ ShowPostNavLinks = true
 ShowToc = true
 
 [[menu.main]]
-name = "Search"
-url = "/search/"
-weight = 5
+name = "Home"
+url = "/"
+weight = 1
 
 [[menu.main]]
 name = "Start Here"
@@ -61,12 +61,8 @@ iconHeight = 34
   favicon16x16 = "/favicon-16x16.png"
   favicon32x32 = "/favicon-32x32.png"
   apple_touch_icon = "/apple-touch-icon.png"
-[[menu.main]]
-name = "Privacy"
-url = "/p/privacy-policy/"
-weight = 6
 
 [[menu.main]]
-name = "Disclaimer"
-url = "/p/disclaimer/"
-weight = 7
+name = "Search"
+url = "/search/"
+weight = 5
