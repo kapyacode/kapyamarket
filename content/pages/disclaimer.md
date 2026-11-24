@@ -3,6 +3,7 @@ title: "Disclaimer and Affiliate Disclosure"
 date: 2026-11-24
 description: "Affiliate disclosure, advertising notice and general disclaimer for Kapya Market."
 aliases: ["/p/affiliate-disclosure/"]
+slug: "disclaimer"
 draft: false
 ---
 
