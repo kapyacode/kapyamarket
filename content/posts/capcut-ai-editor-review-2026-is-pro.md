@@ -2,6 +2,7 @@
 title: "CapCut Pro Review 2026: Is the Subscription Worth It?"
 date: 2026-06-05T21:24:48.065Z
 slug: "capcut-ai-editor-review-2026-is-pro"
+aliases: ["/2026/06/capcut-ai-video-review-2026/"]
 url: "/2026/06/capcut-ai-editor-review-2026-is-pro/"
 description: "CapCut AI Editor review 2026. Compare free vs Pro plans, pricing, AI features, and find out if CapCut Pro is worth it for content creators and blogger"
 tags:

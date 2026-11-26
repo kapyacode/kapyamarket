@@ -2,6 +2,7 @@
 title: "How to Start an Online Store in 2027"
 date: 2026-11-04T04:53:23.517Z
 slug: "how-to-start-online-store-in-2027"
+aliases: ["/2026/06/shopify-start-online-store-capcut-ai-2026/"]
 url: "/2026/11/how-to-start-online-store-in-2027/"
 description: "Start an online store in 2027 with Shopify. Step-by-step guide for South Africans: pricing, trial, local payment gateways, shipping and traffic."
 cover:
